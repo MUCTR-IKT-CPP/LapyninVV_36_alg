@@ -1,0 +1,105 @@
+
+Testing for N = 1000 elements
+====================================
+
+Binary Heap:
+Fill time: 67 microseconds
+GetMax time (1000 operations): 12 microseconds
+Average time per getMax: 0.012 microseconds
+ExtractMax time (1000 operations): 213 microseconds
+Average time per extractMax: 0.213 microseconds
+Insert time (1000 operations): 44 microseconds
+Average time per insert: 0.044 microseconds
+
+Binomial Heap:
+Fill time: 625 microseconds
+GetMax time (1000 operations): 9 microseconds
+Average time per getMax: 0.009 microseconds
+ExtractMax time (1000 operations): 771 microseconds
+Average time per extractMax: 0.771 microseconds
+Insert time (1000 operations): 519 microseconds
+Average time per insert: 0.519 microseconds
+
+Testing for N = 10000 elements
+====================================
+
+Binary Heap:
+Fill time: 478 microseconds
+GetMax time (1000 operations): 12 microseconds
+Average time per getMax: 0.012 microseconds
+ExtractMax time (1000 operations): 283 microseconds
+Average time per extractMax: 0.283 microseconds
+Insert time (1000 operations): 56 microseconds
+Average time per insert: 0.056 microseconds
+
+Binomial Heap:
+Fill time: 4881 microseconds
+GetMax time (1000 operations): 7 microseconds
+Average time per getMax: 0.007 microseconds
+ExtractMax time (1000 operations): 797 microseconds
+Average time per extractMax: 0.797 microseconds
+Insert time (1000 operations): 481 microseconds
+Average time per insert: 0.481 microseconds
+
+Testing for N = 100000 elements
+====================================
+
+Binary Heap:
+Fill time: 6373 microseconds
+GetMax time (1000 operations): 13 microseconds
+Average time per getMax: 0.013 microseconds
+ExtractMax time (1000 operations): 731 microseconds
+Average time per extractMax: 0.731 microseconds
+Insert time (1000 operations): 74 microseconds
+Average time per insert: 0.074 microseconds
+
+Binomial Heap:
+Fill time: 52149 microseconds
+GetMax time (1000 operations): 8 microseconds
+Average time per getMax: 0.008 microseconds
+ExtractMax time (1000 operations): 1327 microseconds
+Average time per extractMax: 1.327 microseconds
+Insert time (1000 operations): 514 microseconds
+Average time per insert: 0.514 microseconds
+
+Testing for N = 1000000 elements
+====================================
+
+Binary Heap:
+Fill time: 46165 microseconds
+GetMax time (1000 operations): 13 microseconds
+Average time per getMax: 0.013 microseconds
+ExtractMax time (1000 operations): 793 microseconds
+Average time per extractMax: 0.793 microseconds
+Insert time (1000 operations): 60 microseconds
+Average time per insert: 0.06 microseconds
+
+Binomial Heap:
+Fill time: 514480 microseconds
+GetMax time (1000 operations): 8 microseconds
+Average time per getMax: 0.008 microseconds
+ExtractMax time (1000 operations): 2028 microseconds
+Average time per extractMax: 2.028 microseconds
+Insert time (1000 operations): 504 microseconds
+Average time per insert: 0.504 microseconds
+
+Testing for N = 10000000 elements
+====================================
+
+Binary Heap:
+Fill time: 479318 microseconds
+GetMax time (1000 operations): 13 microseconds
+Average time per getMax: 0.013 microseconds
+ExtractMax time (1000 operations): 1258 microseconds
+Average time per extractMax: 1.258 microseconds
+Insert time (1000 operations): 63 microseconds
+Average time per insert: 0.063 microseconds
+
+Binomial Heap:
+Fill time: 5331460 microseconds
+GetMax time (1000 operations): 9 microseconds
+Average time per getMax: 0.009 microseconds
+ExtractMax time (1000 operations): 3061 microseconds
+Average time per extractMax: 3.061 microseconds
+Insert time (1000 operations): 504 microseconds
+Average time per insert: 0.504 microseconds

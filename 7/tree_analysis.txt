@@ -1,0 +1,7677 @@
+
+Testing for N = 1024 elements
+====================================
+
+Repeat 1:
+Max depths after initial filling:
+AVL: 12
+Treap: 22
+Insertion time (microseconds):
+AVL: 418
+Treap: 561
+Deletion time (microseconds):
+AVL: 356
+Treap: 132
+Search time (microseconds):
+AVL: 123
+Treap: 153
+Average depths:
+AVL: 9.34018
+Treap: 12.6905
+
+Repeat 2:
+Max depths after initial filling:
+AVL: 12
+Treap: 23
+Insertion time (microseconds):
+AVL: 338
+Treap: 526
+Deletion time (microseconds):
+AVL: 313
+Treap: 112
+Search time (microseconds):
+AVL: 88
+Treap: 99
+Average depths:
+AVL: 9.41299
+Treap: 12.9284
+
+Repeat 3:
+Max depths after initial filling:
+AVL: 12
+Treap: 25
+Insertion time (microseconds):
+AVL: 341
+Treap: 560
+Deletion time (microseconds):
+AVL: 349
+Treap: 130
+Search time (microseconds):
+AVL: 94
+Treap: 101
+Average depths:
+AVL: 9.3459
+Treap: 13.0852
+
+Repeat 4:
+Max depths after initial filling:
+AVL: 12
+Treap: 24
+Insertion time (microseconds):
+AVL: 341
+Treap: 485
+Deletion time (microseconds):
+AVL: 244
+Treap: 84
+Search time (microseconds):
+AVL: 70
+Treap: 76
+Average depths:
+AVL: 9.33953
+Treap: 13.1507
+
+Repeat 5:
+Max depths after initial filling:
+AVL: 12
+Treap: 22
+Insertion time (microseconds):
+AVL: 263
+Treap: 428
+Deletion time (microseconds):
+AVL: 257
+Treap: 85
+Search time (microseconds):
+AVL: 71
+Treap: 77
+Average depths:
+AVL: 9.41705
+Treap: 12.9161
+
+Repeat 6:
+Max depths after initial filling:
+AVL: 12
+Treap: 23
+Insertion time (microseconds):
+AVL: 255
+Treap: 444
+Deletion time (microseconds):
+AVL: 239
+Treap: 86
+Search time (microseconds):
+AVL: 70
+Treap: 75
+Average depths:
+AVL: 9.34491
+Treap: 13.0923
+
+Repeat 7:
+Max depths after initial filling:
+AVL: 12
+Treap: 20
+Insertion time (microseconds):
+AVL: 255
+Treap: 406
+Deletion time (microseconds):
+AVL: 252
+Treap: 81
+Search time (microseconds):
+AVL: 70
+Treap: 77
+Average depths:
+AVL: 9.3186
+Treap: 12.0872
+
+Repeat 8:
+Max depths after initial filling:
+AVL: 12
+Treap: 23
+Insertion time (microseconds):
+AVL: 272
+Treap: 478
+Deletion time (microseconds):
+AVL: 239
+Treap: 83
+Search time (microseconds):
+AVL: 70
+Treap: 79
+Average depths:
+AVL: 9.39326
+Treap: 15.0339
+
+Repeat 9:
+Max depths after initial filling:
+AVL: 12
+Treap: 22
+Insertion time (microseconds):
+AVL: 264
+Treap: 440
+Deletion time (microseconds):
+AVL: 239
+Treap: 86
+Search time (microseconds):
+AVL: 73
+Treap: 75
+Average depths:
+AVL: 9.29864
+Treap: 12.9581
+
+Repeat 10:
+Max depths after initial filling:
+AVL: 12
+Treap: 23
+Insertion time (microseconds):
+AVL: 237
+Treap: 427
+Deletion time (microseconds):
+AVL: 241
+Treap: 84
+Search time (microseconds):
+AVL: 72
+Treap: 75
+Average depths:
+AVL: 9.52847
+Treap: 12.7647
+
+Repeat 11:
+Max depths after initial filling:
+AVL: 12
+Treap: 22
+Insertion time (microseconds):
+AVL: 237
+Treap: 416
+Deletion time (microseconds):
+AVL: 242
+Treap: 81
+Search time (microseconds):
+AVL: 67
+Treap: 74
+Average depths:
+AVL: 9.3555
+Treap: 12.5565
+
+Repeat 12:
+Max depths after initial filling:
+AVL: 12
+Treap: 23
+Insertion time (microseconds):
+AVL: 250
+Treap: 445
+Deletion time (microseconds):
+AVL: 239
+Treap: 87
+Search time (microseconds):
+AVL: 72
+Treap: 76
+Average depths:
+AVL: 9.30093
+Treap: 12.6809
+
+Repeat 13:
+Max depths after initial filling:
+AVL: 12
+Treap: 25
+Insertion time (microseconds):
+AVL: 225
+Treap: 419
+Deletion time (microseconds):
+AVL: 247
+Treap: 88
+Search time (microseconds):
+AVL: 71
+Treap: 74
+Average depths:
+AVL: 9.45103
+Treap: 12.1234
+
+Repeat 14:
+Max depths after initial filling:
+AVL: 12
+Treap: 22
+Insertion time (microseconds):
+AVL: 241
+Treap: 435
+Deletion time (microseconds):
+AVL: 243
+Treap: 84
+Search time (microseconds):
+AVL: 71
+Treap: 77
+Average depths:
+AVL: 9.41648
+Treap: 13.3435
+
+Repeat 15:
+Max depths after initial filling:
+AVL: 12
+Treap: 19
+Insertion time (microseconds):
+AVL: 272
+Treap: 474
+Deletion time (microseconds):
+AVL: 243
+Treap: 87
+Search time (microseconds):
+AVL: 69
+Treap: 76
+Average depths:
+AVL: 9.31603
+Treap: 12.9434
+
+Repeat 16:
+Max depths after initial filling:
+AVL: 12
+Treap: 20
+Insertion time (microseconds):
+AVL: 283
+Treap: 489
+Deletion time (microseconds):
+AVL: 313
+Treap: 140
+Search time (microseconds):
+AVL: 108
+Treap: 125
+Average depths:
+AVL: 9.42727
+Treap: 14.0132
+
+Repeat 17:
+Max depths after initial filling:
+AVL: 12
+Treap: 20
+Insertion time (microseconds):
+AVL: 384
+Treap: 823
+Deletion time (microseconds):
+AVL: 383
+Treap: 147
+Search time (microseconds):
+AVL: 124
+Treap: 126
+Average depths:
+AVL: 9.35499
+Treap: 13.4867
+
+Repeat 18:
+Max depths after initial filling:
+AVL: 12
+Treap: 23
+Insertion time (microseconds):
+AVL: 389
+Treap: 444
+Deletion time (microseconds):
+AVL: 254
+Treap: 96
+Search time (microseconds):
+AVL: 71
+Treap: 77
+Average depths:
+AVL: 9.38095
+Treap: 13.1367
+
+Repeat 19:
+Max depths after initial filling:
+AVL: 12
+Treap: 20
+Insertion time (microseconds):
+AVL: 317
+Treap: 416
+Deletion time (microseconds):
+AVL: 252
+Treap: 84
+Search time (microseconds):
+AVL: 72
+Treap: 74
+Average depths:
+AVL: 9.45475
+Treap: 13.0382
+
+Repeat 20:
+Max depths after initial filling:
+AVL: 12
+Treap: 22
+Insertion time (microseconds):
+AVL: 243
+Treap: 435
+Deletion time (microseconds):
+AVL: 251
+Treap: 85
+Search time (microseconds):
+AVL: 74
+Treap: 76
+Average depths:
+AVL: 9.36111
+Treap: 12.9955
+
+Repeat 21:
+Max depths after initial filling:
+AVL: 12
+Treap: 19
+Insertion time (microseconds):
+AVL: 539
+Treap: 467
+Deletion time (microseconds):
+AVL: 469
+Treap: 101
+Search time (microseconds):
+AVL: 80
+Treap: 82
+Average depths:
+AVL: 9.37188
+Treap: 12.8711
+
+Repeat 22:
+Max depths after initial filling:
+AVL: 12
+Treap: 20
+Insertion time (microseconds):
+AVL: 279
+Treap: 429
+Deletion time (microseconds):
+AVL: 249
+Treap: 82
+Search time (microseconds):
+AVL: 70
+Treap: 75
+Average depths:
+AVL: 9.38584
+Treap: 13.7043
+
+Repeat 23:
+Max depths after initial filling:
+AVL: 12
+Treap: 20
+Insertion time (microseconds):
+AVL: 256
+Treap: 394
+Deletion time (microseconds):
+AVL: 253
+Treap: 85
+Search time (microseconds):
+AVL: 72
+Treap: 183
+Average depths:
+AVL: 9.37915
+Treap: 12.4716
+
+Repeat 24:
+Max depths after initial filling:
+AVL: 12
+Treap: 23
+Insertion time (microseconds):
+AVL: 244
+Treap: 379
+Deletion time (microseconds):
+AVL: 273
+Treap: 87
+Search time (microseconds):
+AVL: 72
+Treap: 75
+Average depths:
+AVL: 9.35092
+Treap: 12.1142
+
+Repeat 25:
+Max depths after initial filling:
+AVL: 12
+Treap: 22
+Insertion time (microseconds):
+AVL: 283
+Treap: 453
+Deletion time (microseconds):
+AVL: 248
+Treap: 83
+Search time (microseconds):
+AVL: 72
+Treap: 75
+Average depths:
+AVL: 9.28182
+Treap: 13.1894
+
+Repeat 26:
+Max depths after initial filling:
+AVL: 12
+Treap: 23
+Insertion time (microseconds):
+AVL: 280
+Treap: 475
+Deletion time (microseconds):
+AVL: 232
+Treap: 84
+Search time (microseconds):
+AVL: 70
+Treap: 75
+Average depths:
+AVL: 9.38799
+Treap: 12.2331
+
+Repeat 27:
+Max depths after initial filling:
+AVL: 12
+Treap: 23
+Insertion time (microseconds):
+AVL: 236
+Treap: 453
+Deletion time (microseconds):
+AVL: 239
+Treap: 82
+Search time (microseconds):
+AVL: 74
+Treap: 76
+Average depths:
+AVL: 9.45244
+Treap: 13.4382
+
+Repeat 28:
+Max depths after initial filling:
+AVL: 12
+Treap: 21
+Insertion time (microseconds):
+AVL: 227
+Treap: 464
+Deletion time (microseconds):
+AVL: 239
+Treap: 90
+Search time (microseconds):
+AVL: 70
+Treap: 78
+Average depths:
+AVL: 9.33411
+Treap: 12.4542
+
+Repeat 29:
+Max depths after initial filling:
+AVL: 12
+Treap: 19
+Insertion time (microseconds):
+AVL: 280
+Treap: 444
+Deletion time (microseconds):
+AVL: 247
+Treap: 88
+Search time (microseconds):
+AVL: 74
+Treap: 76
+Average depths:
+AVL: 9.25641
+Treap: 12.7659
+
+Repeat 30:
+Max depths after initial filling:
+AVL: 12
+Treap: 22
+Insertion time (microseconds):
+AVL: 241
+Treap: 435
+Deletion time (microseconds):
+AVL: 245
+Treap: 81
+Search time (microseconds):
+AVL: 69
+Treap: 76
+Average depths:
+AVL: 9.38568
+Treap: 12.1182
+
+Repeat 31:
+Max depths after initial filling:
+AVL: 12
+Treap: 26
+Insertion time (microseconds):
+AVL: 230
+Treap: 439
+Deletion time (microseconds):
+AVL: 236
+Treap: 85
+Search time (microseconds):
+AVL: 73
+Treap: 84
+Average depths:
+AVL: 9.37246
+Treap: 12.5483
+
+Repeat 32:
+Max depths after initial filling:
+AVL: 12
+Treap: 25
+Insertion time (microseconds):
+AVL: 280
+Treap: 436
+Deletion time (microseconds):
+AVL: 244
+Treap: 84
+Search time (microseconds):
+AVL: 70
+Treap: 75
+Average depths:
+AVL: 9.34633
+Treap: 11.7314
+
+Repeat 33:
+Max depths after initial filling:
+AVL: 12
+Treap: 22
+Insertion time (microseconds):
+AVL: 295
+Treap: 413
+Deletion time (microseconds):
+AVL: 260
+Treap: 87
+Search time (microseconds):
+AVL: 73
+Treap: 74
+Average depths:
+AVL: 9.30787
+Treap: 13.0133
+
+Repeat 34:
+Max depths after initial filling:
+AVL: 12
+Treap: 22
+Insertion time (microseconds):
+AVL: 250
+Treap: 390
+Deletion time (microseconds):
+AVL: 240
+Treap: 81
+Search time (microseconds):
+AVL: 71
+Treap: 75
+Average depths:
+AVL: 9.44595
+Treap: 12.4227
+
+Repeat 35:
+Max depths after initial filling:
+AVL: 12
+Treap: 25
+Insertion time (microseconds):
+AVL: 235
+Treap: 462
+Deletion time (microseconds):
+AVL: 238
+Treap: 81
+Search time (microseconds):
+AVL: 70
+Treap: 78
+Average depths:
+AVL: 9.37783
+Treap: 13.6925
+
+Repeat 36:
+Max depths after initial filling:
+AVL: 12
+Treap: 22
+Insertion time (microseconds):
+AVL: 267
+Treap: 416
+Deletion time (microseconds):
+AVL: 242
+Treap: 84
+Search time (microseconds):
+AVL: 72
+Treap: 74
+Average depths:
+AVL: 9.52784
+Treap: 12.6842
+
+Repeat 37:
+Max depths after initial filling:
+AVL: 12
+Treap: 23
+Insertion time (microseconds):
+AVL: 248
+Treap: 450
+Deletion time (microseconds):
+AVL: 239
+Treap: 86
+Search time (microseconds):
+AVL: 70
+Treap: 75
+Average depths:
+AVL: 9.35104
+Treap: 12.9827
+
+Repeat 38:
+Max depths after initial filling:
+AVL: 12
+Treap: 22
+Insertion time (microseconds):
+AVL: 236
+Treap: 441
+Deletion time (microseconds):
+AVL: 239
+Treap: 91
+Search time (microseconds):
+AVL: 78
+Treap: 77
+Average depths:
+AVL: 9.41043
+Treap: 13.9126
+
+Repeat 39:
+Max depths after initial filling:
+AVL: 12
+Treap: 21
+Insertion time (microseconds):
+AVL: 266
+Treap: 400
+Deletion time (microseconds):
+AVL: 242
+Treap: 92
+Search time (microseconds):
+AVL: 70
+Treap: 72
+Average depths:
+AVL: 9.39192
+Treap: 12.1573
+
+Repeat 40:
+Max depths after initial filling:
+AVL: 12
+Treap: 21
+Insertion time (microseconds):
+AVL: 236
+Treap: 406
+Deletion time (microseconds):
+AVL: 241
+Treap: 86
+Search time (microseconds):
+AVL: 72
+Treap: 75
+Average depths:
+AVL: 9.37585
+Treap: 12.2712
+
+Repeat 41:
+Max depths after initial filling:
+AVL: 12
+Treap: 25
+Insertion time (microseconds):
+AVL: 251
+Treap: 451
+Deletion time (microseconds):
+AVL: 252
+Treap: 88
+Search time (microseconds):
+AVL: 72
+Treap: 76
+Average depths:
+AVL: 9.29545
+Treap: 12.3412
+
+Repeat 42:
+Max depths after initial filling:
+AVL: 12
+Treap: 25
+Insertion time (microseconds):
+AVL: 273
+Treap: 420
+Deletion time (microseconds):
+AVL: 241
+Treap: 79
+Search time (microseconds):
+AVL: 68
+Treap: 74
+Average depths:
+AVL: 9.44719
+Treap: 12.5214
+
+Repeat 43:
+Max depths after initial filling:
+AVL: 12
+Treap: 23
+Insertion time (microseconds):
+AVL: 265
+Treap: 427
+Deletion time (microseconds):
+AVL: 245
+Treap: 83
+Search time (microseconds):
+AVL: 71
+Treap: 75
+Average depths:
+AVL: 9.38215
+Treap: 12.8359
+
+Repeat 44:
+Max depths after initial filling:
+AVL: 12
+Treap: 21
+Insertion time (microseconds):
+AVL: 246
+Treap: 429
+Deletion time (microseconds):
+AVL: 233
+Treap: 83
+Search time (microseconds):
+AVL: 71
+Treap: 76
+Average depths:
+AVL: 9.40868
+Treap: 12.8948
+
+Repeat 45:
+Max depths after initial filling:
+AVL: 12
+Treap: 23
+Insertion time (microseconds):
+AVL: 252
+Treap: 497
+Deletion time (microseconds):
+AVL: 295
+Treap: 95
+Search time (microseconds):
+AVL: 72
+Treap: 82
+Average depths:
+AVL: 9.35294
+Treap: 13.9079
+
+Repeat 46:
+Max depths after initial filling:
+AVL: 12
+Treap: 22
+Insertion time (microseconds):
+AVL: 318
+Treap: 443
+Deletion time (microseconds):
+AVL: 251
+Treap: 88
+Search time (microseconds):
+AVL: 71
+Treap: 76
+Average depths:
+AVL: 9.33645
+Treap: 12.8761
+
+Repeat 47:
+Max depths after initial filling:
+AVL: 12
+Treap: 22
+Insertion time (microseconds):
+AVL: 241
+Treap: 468
+Deletion time (microseconds):
+AVL: 236
+Treap: 83
+Search time (microseconds):
+AVL: 68
+Treap: 82
+Average depths:
+AVL: 9.34174
+Treap: 12.7526
+
+Repeat 48:
+Max depths after initial filling:
+AVL: 12
+Treap: 28
+Insertion time (microseconds):
+AVL: 244
+Treap: 431
+Deletion time (microseconds):
+AVL: 237
+Treap: 85
+Search time (microseconds):
+AVL: 69
+Treap: 81
+Average depths:
+AVL: 9.51264
+Treap: 12.4722
+
+Repeat 49:
+Max depths after initial filling:
+AVL: 12
+Treap: 19
+Insertion time (microseconds):
+AVL: 277
+Treap: 372
+Deletion time (microseconds):
+AVL: 239
+Treap: 83
+Search time (microseconds):
+AVL: 82
+Treap: 75
+Average depths:
+AVL: 9.38889
+Treap: 12.5202
+
+Repeat 50:
+Max depths after initial filling:
+AVL: 12
+Treap: 21
+Insertion time (microseconds):
+AVL: 273
+Treap: 419
+Deletion time (microseconds):
+AVL: 251
+Treap: 82
+Search time (microseconds):
+AVL: 73
+Treap: 80
+Average depths:
+AVL: 9.31567
+Treap: 12.3909
+
+Testing for N = 2048 elements
+====================================
+
+Repeat 1:
+Max depths after initial filling:
+AVL: 13
+Treap: 23
+Insertion time (microseconds):
+AVL: 273
+Treap: 430
+Deletion time (microseconds):
+AVL: 273
+Treap: 97
+Search time (microseconds):
+AVL: 81
+Treap: 85
+Average depths:
+AVL: 10.3707
+Treap: 12.7513
+
+Repeat 2:
+Max depths after initial filling:
+AVL: 13
+Treap: 25
+Insertion time (microseconds):
+AVL: 307
+Treap: 444
+Deletion time (microseconds):
+AVL: 284
+Treap: 99
+Search time (microseconds):
+AVL: 79
+Treap: 106
+Average depths:
+AVL: 10.3523
+Treap: 14.6449
+
+Repeat 3:
+Max depths after initial filling:
+AVL: 13
+Treap: 25
+Insertion time (microseconds):
+AVL: 315
+Treap: 528
+Deletion time (microseconds):
+AVL: 286
+Treap: 106
+Search time (microseconds):
+AVL: 82
+Treap: 86
+Average depths:
+AVL: 10.3392
+Treap: 13.6358
+
+Repeat 4:
+Max depths after initial filling:
+AVL: 13
+Treap: 25
+Insertion time (microseconds):
+AVL: 272
+Treap: 382
+Deletion time (microseconds):
+AVL: 302
+Treap: 102
+Search time (microseconds):
+AVL: 79
+Treap: 87
+Average depths:
+AVL: 10.4038
+Treap: 13.7283
+
+Repeat 5:
+Max depths after initial filling:
+AVL: 13
+Treap: 29
+Insertion time (microseconds):
+AVL: 305
+Treap: 429
+Deletion time (microseconds):
+AVL: 275
+Treap: 104
+Search time (microseconds):
+AVL: 78
+Treap: 87
+Average depths:
+AVL: 10.3586
+Treap: 14.2043
+
+Repeat 6:
+Max depths after initial filling:
+AVL: 13
+Treap: 28
+Insertion time (microseconds):
+AVL: 254
+Treap: 461
+Deletion time (microseconds):
+AVL: 276
+Treap: 98
+Search time (microseconds):
+AVL: 78
+Treap: 83
+Average depths:
+AVL: 10.3786
+Treap: 13.8815
+
+Repeat 7:
+Max depths after initial filling:
+AVL: 13
+Treap: 24
+Insertion time (microseconds):
+AVL: 296
+Treap: 430
+Deletion time (microseconds):
+AVL: 283
+Treap: 101
+Search time (microseconds):
+AVL: 86
+Treap: 86
+Average depths:
+AVL: 10.3976
+Treap: 14.49
+
+Repeat 8:
+Max depths after initial filling:
+AVL: 13
+Treap: 25
+Insertion time (microseconds):
+AVL: 301
+Treap: 472
+Deletion time (microseconds):
+AVL: 273
+Treap: 101
+Search time (microseconds):
+AVL: 80
+Treap: 87
+Average depths:
+AVL: 10.4036
+Treap: 14.3509
+
+Repeat 9:
+Max depths after initial filling:
+AVL: 13
+Treap: 25
+Insertion time (microseconds):
+AVL: 270
+Treap: 396
+Deletion time (microseconds):
+AVL: 282
+Treap: 97
+Search time (microseconds):
+AVL: 93
+Treap: 91
+Average depths:
+AVL: 10.3867
+Treap: 14.47
+
+Repeat 10:
+Max depths after initial filling:
+AVL: 13
+Treap: 23
+Insertion time (microseconds):
+AVL: 298
+Treap: 433
+Deletion time (microseconds):
+AVL: 282
+Treap: 98
+Search time (microseconds):
+AVL: 79
+Treap: 90
+Average depths:
+AVL: 10.3554
+Treap: 14.6268
+
+Repeat 11:
+Max depths after initial filling:
+AVL: 13
+Treap: 26
+Insertion time (microseconds):
+AVL: 264
+Treap: 485
+Deletion time (microseconds):
+AVL: 271
+Treap: 94
+Search time (microseconds):
+AVL: 76
+Treap: 82
+Average depths:
+AVL: 10.3789
+Treap: 13.3507
+
+Repeat 12:
+Max depths after initial filling:
+AVL: 13
+Treap: 24
+Insertion time (microseconds):
+AVL: 308
+Treap: 430
+Deletion time (microseconds):
+AVL: 268
+Treap: 102
+Search time (microseconds):
+AVL: 85
+Treap: 87
+Average depths:
+AVL: 10.3509
+Treap: 15.0847
+
+Repeat 13:
+Max depths after initial filling:
+AVL: 13
+Treap: 26
+Insertion time (microseconds):
+AVL: 312
+Treap: 455
+Deletion time (microseconds):
+AVL: 292
+Treap: 127
+Search time (microseconds):
+AVL: 191
+Treap: 598
+Average depths:
+AVL: 10.3353
+Treap: 13.3411
+
+Repeat 14:
+Max depths after initial filling:
+AVL: 13
+Treap: 26
+Insertion time (microseconds):
+AVL: 291
+Treap: 485
+Deletion time (microseconds):
+AVL: 301
+Treap: 105
+Search time (microseconds):
+AVL: 80
+Treap: 88
+Average depths:
+AVL: 10.5399
+Treap: 16.4733
+
+Repeat 15:
+Max depths after initial filling:
+AVL: 13
+Treap: 25
+Insertion time (microseconds):
+AVL: 327
+Treap: 386
+Deletion time (microseconds):
+AVL: 290
+Treap: 100
+Search time (microseconds):
+AVL: 78
+Treap: 84
+Average depths:
+AVL: 10.3349
+Treap: 13.8712
+
+Repeat 16:
+Max depths after initial filling:
+AVL: 13
+Treap: 24
+Insertion time (microseconds):
+AVL: 303
+Treap: 453
+Deletion time (microseconds):
+AVL: 286
+Treap: 97
+Search time (microseconds):
+AVL: 79
+Treap: 86
+Average depths:
+AVL: 10.3757
+Treap: 14.1629
+
+Repeat 17:
+Max depths after initial filling:
+AVL: 13
+Treap: 22
+Insertion time (microseconds):
+AVL: 283
+Treap: 414
+Deletion time (microseconds):
+AVL: 285
+Treap: 109
+Search time (microseconds):
+AVL: 99
+Treap: 91
+Average depths:
+AVL: 10.4712
+Treap: 13.3488
+
+Repeat 18:
+Max depths after initial filling:
+AVL: 13
+Treap: 29
+Insertion time (microseconds):
+AVL: 264
+Treap: 415
+Deletion time (microseconds):
+AVL: 269
+Treap: 98
+Search time (microseconds):
+AVL: 79
+Treap: 97
+Average depths:
+AVL: 10.3807
+Treap: 13.7254
+
+Repeat 19:
+Max depths after initial filling:
+AVL: 13
+Treap: 29
+Insertion time (microseconds):
+AVL: 287
+Treap: 399
+Deletion time (microseconds):
+AVL: 278
+Treap: 98
+Search time (microseconds):
+AVL: 79
+Treap: 84
+Average depths:
+AVL: 10.385
+Treap: 13.4523
+
+Repeat 20:
+Max depths after initial filling:
+AVL: 13
+Treap: 24
+Insertion time (microseconds):
+AVL: 310
+Treap: 440
+Deletion time (microseconds):
+AVL: 277
+Treap: 98
+Search time (microseconds):
+AVL: 81
+Treap: 92
+Average depths:
+AVL: 10.3986
+Treap: 14.5492
+
+Repeat 21:
+Max depths after initial filling:
+AVL: 13
+Treap: 27
+Insertion time (microseconds):
+AVL: 254
+Treap: 401
+Deletion time (microseconds):
+AVL: 263
+Treap: 97
+Search time (microseconds):
+AVL: 79
+Treap: 85
+Average depths:
+AVL: 10.3754
+Treap: 13.5209
+
+Repeat 22:
+Max depths after initial filling:
+AVL: 13
+Treap: 29
+Insertion time (microseconds):
+AVL: 287
+Treap: 423
+Deletion time (microseconds):
+AVL: 320
+Treap: 110
+Search time (microseconds):
+AVL: 84
+Treap: 87
+Average depths:
+AVL: 10.3831
+Treap: 13.2456
+
+Repeat 23:
+Max depths after initial filling:
+AVL: 13
+Treap: 22
+Insertion time (microseconds):
+AVL: 370
+Treap: 639
+Deletion time (microseconds):
+AVL: 427
+Treap: 164
+Search time (microseconds):
+AVL: 114
+Treap: 144
+Average depths:
+AVL: 10.3827
+Treap: 14.2077
+
+Repeat 24:
+Max depths after initial filling:
+AVL: 13
+Treap: 27
+Insertion time (microseconds):
+AVL: 297
+Treap: 414
+Deletion time (microseconds):
+AVL: 280
+Treap: 98
+Search time (microseconds):
+AVL: 78
+Treap: 85
+Average depths:
+AVL: 10.3945
+Treap: 13.5681
+
+Repeat 25:
+Max depths after initial filling:
+AVL: 13
+Treap: 26
+Insertion time (microseconds):
+AVL: 295
+Treap: 459
+Deletion time (microseconds):
+AVL: 287
+Treap: 102
+Search time (microseconds):
+AVL: 80
+Treap: 87
+Average depths:
+AVL: 10.3649
+Treap: 14.5378
+
+Repeat 26:
+Max depths after initial filling:
+AVL: 13
+Treap: 26
+Insertion time (microseconds):
+AVL: 259
+Treap: 427
+Deletion time (microseconds):
+AVL: 278
+Treap: 95
+Search time (microseconds):
+AVL: 80
+Treap: 85
+Average depths:
+AVL: 10.3736
+Treap: 13.9151
+
+Repeat 27:
+Max depths after initial filling:
+AVL: 13
+Treap: 23
+Insertion time (microseconds):
+AVL: 296
+Treap: 402
+Deletion time (microseconds):
+AVL: 291
+Treap: 98
+Search time (microseconds):
+AVL: 80
+Treap: 85
+Average depths:
+AVL: 10.4042
+Treap: 13.992
+
+Repeat 28:
+Max depths after initial filling:
+AVL: 13
+Treap: 25
+Insertion time (microseconds):
+AVL: 268
+Treap: 452
+Deletion time (microseconds):
+AVL: 281
+Treap: 120
+Search time (microseconds):
+AVL: 80
+Treap: 87
+Average depths:
+AVL: 10.4729
+Treap: 15.8495
+
+Repeat 29:
+Max depths after initial filling:
+AVL: 13
+Treap: 23
+Insertion time (microseconds):
+AVL: 296
+Treap: 443
+Deletion time (microseconds):
+AVL: 277
+Treap: 96
+Search time (microseconds):
+AVL: 78
+Treap: 83
+Average depths:
+AVL: 10.3659
+Treap: 13.6618
+
+Repeat 30:
+Max depths after initial filling:
+AVL: 13
+Treap: 24
+Insertion time (microseconds):
+AVL: 265
+Treap: 467
+Deletion time (microseconds):
+AVL: 278
+Treap: 100
+Search time (microseconds):
+AVL: 86
+Treap: 87
+Average depths:
+AVL: 10.3668
+Treap: 14.1747
+
+Repeat 31:
+Max depths after initial filling:
+AVL: 13
+Treap: 26
+Insertion time (microseconds):
+AVL: 306
+Treap: 383
+Deletion time (microseconds):
+AVL: 294
+Treap: 104
+Search time (microseconds):
+AVL: 79
+Treap: 85
+Average depths:
+AVL: 10.4428
+Treap: 13.4799
+
+Repeat 32:
+Max depths after initial filling:
+AVL: 13
+Treap: 22
+Insertion time (microseconds):
+AVL: 315
+Treap: 378
+Deletion time (microseconds):
+AVL: 276
+Treap: 101
+Search time (microseconds):
+AVL: 78
+Treap: 86
+Average depths:
+AVL: 10.4095
+Treap: 14.19
+
+Repeat 33:
+Max depths after initial filling:
+AVL: 13
+Treap: 23
+Insertion time (microseconds):
+AVL: 269
+Treap: 404
+Deletion time (microseconds):
+AVL: 291
+Treap: 99
+Search time (microseconds):
+AVL: 80
+Treap: 85
+Average depths:
+AVL: 10.3582
+Treap: 13.4572
+
+Repeat 34:
+Max depths after initial filling:
+AVL: 13
+Treap: 25
+Insertion time (microseconds):
+AVL: 295
+Treap: 400
+Deletion time (microseconds):
+AVL: 277
+Treap: 101
+Search time (microseconds):
+AVL: 78
+Treap: 98
+Average depths:
+AVL: 10.4291
+Treap: 14.0272
+
+Repeat 35:
+Max depths after initial filling:
+AVL: 13
+Treap: 29
+Insertion time (microseconds):
+AVL: 274
+Treap: 440
+Deletion time (microseconds):
+AVL: 288
+Treap: 101
+Search time (microseconds):
+AVL: 78
+Treap: 87
+Average depths:
+AVL: 10.4709
+Treap: 13.8615
+
+Repeat 36:
+Max depths after initial filling:
+AVL: 13
+Treap: 24
+Insertion time (microseconds):
+AVL: 294
+Treap: 406
+Deletion time (microseconds):
+AVL: 283
+Treap: 98
+Search time (microseconds):
+AVL: 79
+Treap: 94
+Average depths:
+AVL: 10.3076
+Treap: 14.111
+
+Repeat 37:
+Max depths after initial filling:
+AVL: 13
+Treap: 25
+Insertion time (microseconds):
+AVL: 290
+Treap: 417
+Deletion time (microseconds):
+AVL: 273
+Treap: 98
+Search time (microseconds):
+AVL: 81
+Treap: 83
+Average depths:
+AVL: 10.412
+Treap: 13.9101
+
+Repeat 38:
+Max depths after initial filling:
+AVL: 13
+Treap: 24
+Insertion time (microseconds):
+AVL: 300
+Treap: 454
+Deletion time (microseconds):
+AVL: 279
+Treap: 101
+Search time (microseconds):
+AVL: 82
+Treap: 86
+Average depths:
+AVL: 10.3888
+Treap: 13.4416
+
+Repeat 39:
+Max depths after initial filling:
+AVL: 13
+Treap: 25
+Insertion time (microseconds):
+AVL: 295
+Treap: 428
+Deletion time (microseconds):
+AVL: 322
+Treap: 111
+Search time (microseconds):
+AVL: 100
+Treap: 87
+Average depths:
+AVL: 10.3674
+Treap: 13.027
+
+Repeat 40:
+Max depths after initial filling:
+AVL: 13
+Treap: 29
+Insertion time (microseconds):
+AVL: 270
+Treap: 445
+Deletion time (microseconds):
+AVL: 268
+Treap: 97
+Search time (microseconds):
+AVL: 77
+Treap: 86
+Average depths:
+AVL: 10.3922
+Treap: 13.3877
+
+Repeat 41:
+Max depths after initial filling:
+AVL: 13
+Treap: 24
+Insertion time (microseconds):
+AVL: 307
+Treap: 440
+Deletion time (microseconds):
+AVL: 269
+Treap: 97
+Search time (microseconds):
+AVL: 79
+Treap: 87
+Average depths:
+AVL: 10.3515
+Treap: 14.047
+
+Repeat 42:
+Max depths after initial filling:
+AVL: 13
+Treap: 25
+Insertion time (microseconds):
+AVL: 256
+Treap: 414
+Deletion time (microseconds):
+AVL: 285
+Treap: 97
+Search time (microseconds):
+AVL: 79
+Treap: 84
+Average depths:
+AVL: 10.342
+Treap: 13.4734
+
+Repeat 43:
+Max depths after initial filling:
+AVL: 13
+Treap: 24
+Insertion time (microseconds):
+AVL: 285
+Treap: 439
+Deletion time (microseconds):
+AVL: 269
+Treap: 99
+Search time (microseconds):
+AVL: 77
+Treap: 83
+Average depths:
+AVL: 10.432
+Treap: 13.8513
+
+Repeat 44:
+Max depths after initial filling:
+AVL: 13
+Treap: 25
+Insertion time (microseconds):
+AVL: 319
+Treap: 434
+Deletion time (microseconds):
+AVL: 276
+Treap: 99
+Search time (microseconds):
+AVL: 78
+Treap: 85
+Average depths:
+AVL: 10.3891
+Treap: 13.5177
+
+Repeat 45:
+Max depths after initial filling:
+AVL: 13
+Treap: 33
+Insertion time (microseconds):
+AVL: 252
+Treap: 483
+Deletion time (microseconds):
+AVL: 284
+Treap: 104
+Search time (microseconds):
+AVL: 79
+Treap: 89
+Average depths:
+AVL: 10.3544
+Treap: 15.7728
+
+Repeat 46:
+Max depths after initial filling:
+AVL: 13
+Treap: 25
+Insertion time (microseconds):
+AVL: 308
+Treap: 417
+Deletion time (microseconds):
+AVL: 281
+Treap: 103
+Search time (microseconds):
+AVL: 78
+Treap: 87
+Average depths:
+AVL: 10.3757
+Treap: 14.2282
+
+Repeat 47:
+Max depths after initial filling:
+AVL: 13
+Treap: 23
+Insertion time (microseconds):
+AVL: 255
+Treap: 439
+Deletion time (microseconds):
+AVL: 270
+Treap: 98
+Search time (microseconds):
+AVL: 82
+Treap: 86
+Average depths:
+AVL: 10.3599
+Treap: 12.8689
+
+Repeat 48:
+Max depths after initial filling:
+AVL: 13
+Treap: 24
+Insertion time (microseconds):
+AVL: 280
+Treap: 431
+Deletion time (microseconds):
+AVL: 283
+Treap: 96
+Search time (microseconds):
+AVL: 79
+Treap: 85
+Average depths:
+AVL: 10.4007
+Treap: 13.506
+
+Repeat 49:
+Max depths after initial filling:
+AVL: 14
+Treap: 26
+Insertion time (microseconds):
+AVL: 263
+Treap: 401
+Deletion time (microseconds):
+AVL: 268
+Treap: 96
+Search time (microseconds):
+AVL: 75
+Treap: 86
+Average depths:
+AVL: 10.2889
+Treap: 13.9173
+
+Repeat 50:
+Max depths after initial filling:
+AVL: 13
+Treap: 30
+Insertion time (microseconds):
+AVL: 278
+Treap: 466
+Deletion time (microseconds):
+AVL: 314
+Treap: 110
+Search time (microseconds):
+AVL: 81
+Treap: 87
+Average depths:
+AVL: 10.3713
+Treap: 14.8964
+
+Testing for N = 4096 elements
+====================================
+
+Repeat 1:
+Max depths after initial filling:
+AVL: 14
+Treap: 26
+Insertion time (microseconds):
+AVL: 294
+Treap: 442
+Deletion time (microseconds):
+AVL: 332
+Treap: 114
+Search time (microseconds):
+AVL: 87
+Treap: 94
+Average depths:
+AVL: 11.4682
+Treap: 15.252
+
+Repeat 2:
+Max depths after initial filling:
+AVL: 14
+Treap: 27
+Insertion time (microseconds):
+AVL: 292
+Treap: 454
+Deletion time (microseconds):
+AVL: 348
+Treap: 240
+Search time (microseconds):
+AVL: 357
+Treap: 336
+Average depths:
+AVL: 11.4019
+Treap: 14.8436
+
+Repeat 3:
+Max depths after initial filling:
+AVL: 14
+Treap: 25
+Insertion time (microseconds):
+AVL: 320
+Treap: 471
+Deletion time (microseconds):
+AVL: 364
+Treap: 137
+Search time (microseconds):
+AVL: 89
+Treap: 114
+Average depths:
+AVL: 11.3422
+Treap: 14.5906
+
+Repeat 4:
+Max depths after initial filling:
+AVL: 15
+Treap: 28
+Insertion time (microseconds):
+AVL: 322
+Treap: 394
+Deletion time (microseconds):
+AVL: 311
+Treap: 125
+Search time (microseconds):
+AVL: 91
+Treap: 95
+Average depths:
+AVL: 11.3671
+Treap: 14.6561
+
+Repeat 5:
+Max depths after initial filling:
+AVL: 14
+Treap: 29
+Insertion time (microseconds):
+AVL: 327
+Treap: 478
+Deletion time (microseconds):
+AVL: 307
+Treap: 113
+Search time (microseconds):
+AVL: 84
+Treap: 92
+Average depths:
+AVL: 11.5184
+Treap: 14.6232
+
+Repeat 6:
+Max depths after initial filling:
+AVL: 14
+Treap: 29
+Insertion time (microseconds):
+AVL: 346
+Treap: 449
+Deletion time (microseconds):
+AVL: 316
+Treap: 114
+Search time (microseconds):
+AVL: 84
+Treap: 92
+Average depths:
+AVL: 11.345
+Treap: 14.7184
+
+Repeat 7:
+Max depths after initial filling:
+AVL: 14
+Treap: 32
+Insertion time (microseconds):
+AVL: 287
+Treap: 537
+Deletion time (microseconds):
+AVL: 305
+Treap: 127
+Search time (microseconds):
+AVL: 83
+Treap: 104
+Average depths:
+AVL: 11.4239
+Treap: 19.4926
+
+Repeat 8:
+Max depths after initial filling:
+AVL: 14
+Treap: 24
+Insertion time (microseconds):
+AVL: 291
+Treap: 482
+Deletion time (microseconds):
+AVL: 314
+Treap: 111
+Search time (microseconds):
+AVL: 88
+Treap: 92
+Average depths:
+AVL: 11.393
+Treap: 14.2288
+
+Repeat 9:
+Max depths after initial filling:
+AVL: 15
+Treap: 28
+Insertion time (microseconds):
+AVL: 305
+Treap: 432
+Deletion time (microseconds):
+AVL: 326
+Treap: 119
+Search time (microseconds):
+AVL: 95
+Treap: 99
+Average depths:
+AVL: 11.4392
+Treap: 15.3566
+
+Repeat 10:
+Max depths after initial filling:
+AVL: 14
+Treap: 31
+Insertion time (microseconds):
+AVL: 339
+Treap: 454
+Deletion time (microseconds):
+AVL: 328
+Treap: 110
+Search time (microseconds):
+AVL: 90
+Treap: 96
+Average depths:
+AVL: 11.4753
+Treap: 14.946
+
+Repeat 11:
+Max depths after initial filling:
+AVL: 14
+Treap: 28
+Insertion time (microseconds):
+AVL: 311
+Treap: 460
+Deletion time (microseconds):
+AVL: 297
+Treap: 114
+Search time (microseconds):
+AVL: 87
+Treap: 96
+Average depths:
+AVL: 11.3673
+Treap: 15.6264
+
+Repeat 12:
+Max depths after initial filling:
+AVL: 15
+Treap: 31
+Insertion time (microseconds):
+AVL: 312
+Treap: 421
+Deletion time (microseconds):
+AVL: 297
+Treap: 111
+Search time (microseconds):
+AVL: 87
+Treap: 93
+Average depths:
+AVL: 11.358
+Treap: 14.8472
+
+Repeat 13:
+Max depths after initial filling:
+AVL: 14
+Treap: 26
+Insertion time (microseconds):
+AVL: 303
+Treap: 519
+Deletion time (microseconds):
+AVL: 386
+Treap: 152
+Search time (microseconds):
+AVL: 92
+Treap: 100
+Average depths:
+AVL: 11.5113
+Treap: 17.4538
+
+Repeat 14:
+Max depths after initial filling:
+AVL: 15
+Treap: 24
+Insertion time (microseconds):
+AVL: 264
+Treap: 443
+Deletion time (microseconds):
+AVL: 308
+Treap: 114
+Search time (microseconds):
+AVL: 87
+Treap: 94
+Average depths:
+AVL: 11.4077
+Treap: 14.0992
+
+Repeat 15:
+Max depths after initial filling:
+AVL: 14
+Treap: 27
+Insertion time (microseconds):
+AVL: 314
+Treap: 418
+Deletion time (microseconds):
+AVL: 303
+Treap: 114
+Search time (microseconds):
+AVL: 86
+Treap: 94
+Average depths:
+AVL: 11.3528
+Treap: 15.5713
+
+Repeat 16:
+Max depths after initial filling:
+AVL: 14
+Treap: 26
+Insertion time (microseconds):
+AVL: 321
+Treap: 496
+Deletion time (microseconds):
+AVL: 365
+Treap: 116
+Search time (microseconds):
+AVL: 95
+Treap: 98
+Average depths:
+AVL: 11.4285
+Treap: 15.5096
+
+Repeat 17:
+Max depths after initial filling:
+AVL: 14
+Treap: 27
+Insertion time (microseconds):
+AVL: 303
+Treap: 536
+Deletion time (microseconds):
+AVL: 318
+Treap: 121
+Search time (microseconds):
+AVL: 88
+Treap: 97
+Average depths:
+AVL: 11.3556
+Treap: 15.7066
+
+Repeat 18:
+Max depths after initial filling:
+AVL: 14
+Treap: 29
+Insertion time (microseconds):
+AVL: 319
+Treap: 404
+Deletion time (microseconds):
+AVL: 309
+Treap: 113
+Search time (microseconds):
+AVL: 86
+Treap: 95
+Average depths:
+AVL: 11.5203
+Treap: 15.2152
+
+Repeat 19:
+Max depths after initial filling:
+AVL: 14
+Treap: 26
+Insertion time (microseconds):
+AVL: 299
+Treap: 481
+Deletion time (microseconds):
+AVL: 312
+Treap: 112
+Search time (microseconds):
+AVL: 86
+Treap: 93
+Average depths:
+AVL: 11.3613
+Treap: 15.0838
+
+Repeat 20:
+Max depths after initial filling:
+AVL: 14
+Treap: 26
+Insertion time (microseconds):
+AVL: 280
+Treap: 438
+Deletion time (microseconds):
+AVL: 307
+Treap: 116
+Search time (microseconds):
+AVL: 86
+Treap: 98
+Average depths:
+AVL: 11.3842
+Treap: 14.9886
+
+Repeat 21:
+Max depths after initial filling:
+AVL: 15
+Treap: 27
+Insertion time (microseconds):
+AVL: 286
+Treap: 424
+Deletion time (microseconds):
+AVL: 303
+Treap: 114
+Search time (microseconds):
+AVL: 87
+Treap: 95
+Average depths:
+AVL: 11.3637
+Treap: 15.5736
+
+Repeat 22:
+Max depths after initial filling:
+AVL: 14
+Treap: 28
+Insertion time (microseconds):
+AVL: 312
+Treap: 499
+Deletion time (microseconds):
+AVL: 293
+Treap: 112
+Search time (microseconds):
+AVL: 85
+Treap: 94
+Average depths:
+AVL: 11.3527
+Treap: 14.921
+
+Repeat 23:
+Max depths after initial filling:
+AVL: 15
+Treap: 25
+Insertion time (microseconds):
+AVL: 348
+Treap: 471
+Deletion time (microseconds):
+AVL: 312
+Treap: 112
+Search time (microseconds):
+AVL: 87
+Treap: 94
+Average depths:
+AVL: 11.5023
+Treap: 14.7452
+
+Repeat 24:
+Max depths after initial filling:
+AVL: 14
+Treap: 30
+Insertion time (microseconds):
+AVL: 313
+Treap: 374
+Deletion time (microseconds):
+AVL: 304
+Treap: 123
+Search time (microseconds):
+AVL: 87
+Treap: 99
+Average depths:
+AVL: 11.4971
+Treap: 17.6959
+
+Repeat 25:
+Max depths after initial filling:
+AVL: 15
+Treap: 28
+Insertion time (microseconds):
+AVL: 290
+Treap: 467
+Deletion time (microseconds):
+AVL: 318
+Treap: 117
+Search time (microseconds):
+AVL: 86
+Treap: 95
+Average depths:
+AVL: 11.3462
+Treap: 15.4131
+
+Repeat 26:
+Max depths after initial filling:
+AVL: 14
+Treap: 31
+Insertion time (microseconds):
+AVL: 590
+Treap: 706
+Deletion time (microseconds):
+AVL: 423
+Treap: 168
+Search time (microseconds):
+AVL: 128
+Treap: 101
+Average depths:
+AVL: 11.4468
+Treap: 15.1153
+
+Repeat 27:
+Max depths after initial filling:
+AVL: 14
+Treap: 26
+Insertion time (microseconds):
+AVL: 313
+Treap: 511
+Deletion time (microseconds):
+AVL: 338
+Treap: 137
+Search time (microseconds):
+AVL: 105
+Treap: 92
+Average depths:
+AVL: 11.4301
+Treap: 14.4041
+
+Repeat 28:
+Max depths after initial filling:
+AVL: 14
+Treap: 26
+Insertion time (microseconds):
+AVL: 348
+Treap: 490
+Deletion time (microseconds):
+AVL: 321
+Treap: 112
+Search time (microseconds):
+AVL: 86
+Treap: 94
+Average depths:
+AVL: 11.4223
+Treap: 14.9187
+
+Repeat 29:
+Max depths after initial filling:
+AVL: 14
+Treap: 31
+Insertion time (microseconds):
+AVL: 352
+Treap: 441
+Deletion time (microseconds):
+AVL: 336
+Treap: 135
+Search time (microseconds):
+AVL: 90
+Treap: 96
+Average depths:
+AVL: 11.3736
+Treap: 14.6329
+
+Repeat 30:
+Max depths after initial filling:
+AVL: 14
+Treap: 27
+Insertion time (microseconds):
+AVL: 309
+Treap: 480
+Deletion time (microseconds):
+AVL: 310
+Treap: 115
+Search time (microseconds):
+AVL: 92
+Treap: 99
+Average depths:
+AVL: 11.3186
+Treap: 14.5137
+
+Repeat 31:
+Max depths after initial filling:
+AVL: 15
+Treap: 32
+Insertion time (microseconds):
+AVL: 391
+Treap: 452
+Deletion time (microseconds):
+AVL: 400
+Treap: 144
+Search time (microseconds):
+AVL: 94
+Treap: 93
+Average depths:
+AVL: 11.361
+Treap: 14.7212
+
+Repeat 32:
+Max depths after initial filling:
+AVL: 15
+Treap: 28
+Insertion time (microseconds):
+AVL: 289
+Treap: 449
+Deletion time (microseconds):
+AVL: 306
+Treap: 112
+Search time (microseconds):
+AVL: 88
+Treap: 95
+Average depths:
+AVL: 11.3668
+Treap: 14.9509
+
+Repeat 33:
+Max depths after initial filling:
+AVL: 14
+Treap: 27
+Insertion time (microseconds):
+AVL: 318
+Treap: 492
+Deletion time (microseconds):
+AVL: 338
+Treap: 116
+Search time (microseconds):
+AVL: 86
+Treap: 94
+Average depths:
+AVL: 11.4686
+Treap: 15.0377
+
+Repeat 34:
+Max depths after initial filling:
+AVL: 14
+Treap: 28
+Insertion time (microseconds):
+AVL: 331
+Treap: 415
+Deletion time (microseconds):
+AVL: 317
+Treap: 114
+Search time (microseconds):
+AVL: 87
+Treap: 99
+Average depths:
+AVL: 11.4606
+Treap: 15.0142
+
+Repeat 35:
+Max depths after initial filling:
+AVL: 15
+Treap: 26
+Insertion time (microseconds):
+AVL: 325
+Treap: 465
+Deletion time (microseconds):
+AVL: 307
+Treap: 112
+Search time (microseconds):
+AVL: 87
+Treap: 93
+Average depths:
+AVL: 11.4286
+Treap: 14.7854
+
+Repeat 36:
+Max depths after initial filling:
+AVL: 14
+Treap: 26
+Insertion time (microseconds):
+AVL: 313
+Treap: 454
+Deletion time (microseconds):
+AVL: 313
+Treap: 112
+Search time (microseconds):
+AVL: 93
+Treap: 96
+Average depths:
+AVL: 11.4076
+Treap: 15.1132
+
+Repeat 37:
+Max depths after initial filling:
+AVL: 14
+Treap: 28
+Insertion time (microseconds):
+AVL: 289
+Treap: 466
+Deletion time (microseconds):
+AVL: 300
+Treap: 114
+Search time (microseconds):
+AVL: 87
+Treap: 95
+Average depths:
+AVL: 11.5153
+Treap: 15.2184
+
+Repeat 38:
+Max depths after initial filling:
+AVL: 15
+Treap: 25
+Insertion time (microseconds):
+AVL: 283
+Treap: 476
+Deletion time (microseconds):
+AVL: 308
+Treap: 111
+Search time (microseconds):
+AVL: 87
+Treap: 99
+Average depths:
+AVL: 11.4419
+Treap: 14.972
+
+Repeat 39:
+Max depths after initial filling:
+AVL: 14
+Treap: 31
+Insertion time (microseconds):
+AVL: 301
+Treap: 415
+Deletion time (microseconds):
+AVL: 313
+Treap: 119
+Search time (microseconds):
+AVL: 84
+Treap: 96
+Average depths:
+AVL: 11.4122
+Treap: 16.481
+
+Repeat 40:
+Max depths after initial filling:
+AVL: 14
+Treap: 32
+Insertion time (microseconds):
+AVL: 313
+Treap: 515
+Deletion time (microseconds):
+AVL: 463
+Treap: 186
+Search time (microseconds):
+AVL: 141
+Treap: 110
+Average depths:
+AVL: 11.5492
+Treap: 15.5255
+
+Repeat 41:
+Max depths after initial filling:
+AVL: 15
+Treap: 32
+Insertion time (microseconds):
+AVL: 305
+Treap: 434
+Deletion time (microseconds):
+AVL: 294
+Treap: 112
+Search time (microseconds):
+AVL: 83
+Treap: 93
+Average depths:
+AVL: 11.3255
+Treap: 14.8941
+
+Repeat 42:
+Max depths after initial filling:
+AVL: 15
+Treap: 31
+Insertion time (microseconds):
+AVL: 322
+Treap: 481
+Deletion time (microseconds):
+AVL: 309
+Treap: 116
+Search time (microseconds):
+AVL: 85
+Treap: 96
+Average depths:
+AVL: 11.3747
+Treap: 16.1421
+
+Repeat 43:
+Max depths after initial filling:
+AVL: 14
+Treap: 27
+Insertion time (microseconds):
+AVL: 294
+Treap: 477
+Deletion time (microseconds):
+AVL: 312
+Treap: 113
+Search time (microseconds):
+AVL: 85
+Treap: 95
+Average depths:
+AVL: 11.5041
+Treap: 14.8665
+
+Repeat 44:
+Max depths after initial filling:
+AVL: 14
+Treap: 30
+Insertion time (microseconds):
+AVL: 293
+Treap: 514
+Deletion time (microseconds):
+AVL: 323
+Treap: 119
+Search time (microseconds):
+AVL: 89
+Treap: 97
+Average depths:
+AVL: 11.4633
+Treap: 15.9512
+
+Repeat 45:
+Max depths after initial filling:
+AVL: 15
+Treap: 27
+Insertion time (microseconds):
+AVL: 314
+Treap: 487
+Deletion time (microseconds):
+AVL: 330
+Treap: 136
+Search time (microseconds):
+AVL: 92
+Treap: 97
+Average depths:
+AVL: 11.4563
+Treap: 15.4281
+
+Repeat 46:
+Max depths after initial filling:
+AVL: 14
+Treap: 30
+Insertion time (microseconds):
+AVL: 333
+Treap: 463
+Deletion time (microseconds):
+AVL: 308
+Treap: 124
+Search time (microseconds):
+AVL: 87
+Treap: 96
+Average depths:
+AVL: 11.3594
+Treap: 16.2016
+
+Repeat 47:
+Max depths after initial filling:
+AVL: 14
+Treap: 27
+Insertion time (microseconds):
+AVL: 300
+Treap: 443
+Deletion time (microseconds):
+AVL: 301
+Treap: 119
+Search time (microseconds):
+AVL: 88
+Treap: 94
+Average depths:
+AVL: 11.3431
+Treap: 14.2183
+
+Repeat 48:
+Max depths after initial filling:
+AVL: 14
+Treap: 26
+Insertion time (microseconds):
+AVL: 311
+Treap: 421
+Deletion time (microseconds):
+AVL: 725
+Treap: 179
+Search time (microseconds):
+AVL: 100
+Treap: 99
+Average depths:
+AVL: 11.3968
+Treap: 14.9802
+
+Repeat 49:
+Max depths after initial filling:
+AVL: 15
+Treap: 29
+Insertion time (microseconds):
+AVL: 270
+Treap: 497
+Deletion time (microseconds):
+AVL: 312
+Treap: 120
+Search time (microseconds):
+AVL: 89
+Treap: 94
+Average depths:
+AVL: 11.4264
+Treap: 14.908
+
+Repeat 50:
+Max depths after initial filling:
+AVL: 14
+Treap: 28
+Insertion time (microseconds):
+AVL: 283
+Treap: 460
+Deletion time (microseconds):
+AVL: 297
+Treap: 113
+Search time (microseconds):
+AVL: 87
+Treap: 94
+Average depths:
+AVL: 11.3431
+Treap: 14.6303
+
+Testing for N = 8192 elements
+====================================
+
+Repeat 1:
+Max depths after initial filling:
+AVL: 16
+Treap: 30
+Insertion time (microseconds):
+AVL: 340
+Treap: 456
+Deletion time (microseconds):
+AVL: 350
+Treap: 137
+Search time (microseconds):
+AVL: 102
+Treap: 111
+Average depths:
+AVL: 12.434
+Treap: 16.8639
+
+Repeat 2:
+Max depths after initial filling:
+AVL: 15
+Treap: 29
+Insertion time (microseconds):
+AVL: 334
+Treap: 473
+Deletion time (microseconds):
+AVL: 342
+Treap: 136
+Search time (microseconds):
+AVL: 98
+Treap: 107
+Average depths:
+AVL: 12.3952
+Treap: 16.6044
+
+Repeat 3:
+Max depths after initial filling:
+AVL: 16
+Treap: 29
+Insertion time (microseconds):
+AVL: 297
+Treap: 459
+Deletion time (microseconds):
+AVL: 350
+Treap: 137
+Search time (microseconds):
+AVL: 108
+Treap: 110
+Average depths:
+AVL: 12.4002
+Treap: 16.3002
+
+Repeat 4:
+Max depths after initial filling:
+AVL: 15
+Treap: 29
+Insertion time (microseconds):
+AVL: 322
+Treap: 542
+Deletion time (microseconds):
+AVL: 402
+Treap: 171
+Search time (microseconds):
+AVL: 106
+Treap: 111
+Average depths:
+AVL: 12.3318
+Treap: 16.2042
+
+Repeat 5:
+Max depths after initial filling:
+AVL: 16
+Treap: 33
+Insertion time (microseconds):
+AVL: 329
+Treap: 436
+Deletion time (microseconds):
+AVL: 339
+Treap: 132
+Search time (microseconds):
+AVL: 97
+Treap: 106
+Average depths:
+AVL: 12.3688
+Treap: 16.0753
+
+Repeat 6:
+Max depths after initial filling:
+AVL: 16
+Treap: 33
+Insertion time (microseconds):
+AVL: 292
+Treap: 459
+Deletion time (microseconds):
+AVL: 358
+Treap: 134
+Search time (microseconds):
+AVL: 99
+Treap: 111
+Average depths:
+AVL: 12.4368
+Treap: 16.658
+
+Repeat 7:
+Max depths after initial filling:
+AVL: 15
+Treap: 30
+Insertion time (microseconds):
+AVL: 370
+Treap: 473
+Deletion time (microseconds):
+AVL: 479
+Treap: 196
+Search time (microseconds):
+AVL: 114
+Treap: 117
+Average depths:
+AVL: 12.351
+Treap: 16.3285
+
+Repeat 8:
+Max depths after initial filling:
+AVL: 16
+Treap: 29
+Insertion time (microseconds):
+AVL: 351
+Treap: 555
+Deletion time (microseconds):
+AVL: 468
+Treap: 204
+Search time (microseconds):
+AVL: 115
+Treap: 113
+Average depths:
+AVL: 12.3674
+Treap: 15.792
+
+Repeat 9:
+Max depths after initial filling:
+AVL: 16
+Treap: 31
+Insertion time (microseconds):
+AVL: 333
+Treap: 468
+Deletion time (microseconds):
+AVL: 344
+Treap: 138
+Search time (microseconds):
+AVL: 99
+Treap: 109
+Average depths:
+AVL: 12.4363
+Treap: 17.8298
+
+Repeat 10:
+Max depths after initial filling:
+AVL: 16
+Treap: 33
+Insertion time (microseconds):
+AVL: 339
+Treap: 450
+Deletion time (microseconds):
+AVL: 343
+Treap: 133
+Search time (microseconds):
+AVL: 99
+Treap: 105
+Average depths:
+AVL: 12.363
+Treap: 15.8757
+
+Repeat 11:
+Max depths after initial filling:
+AVL: 16
+Treap: 31
+Insertion time (microseconds):
+AVL: 384
+Treap: 475
+Deletion time (microseconds):
+AVL: 541
+Treap: 173
+Search time (microseconds):
+AVL: 103
+Treap: 113
+Average depths:
+AVL: 12.3877
+Treap: 17.4625
+
+Repeat 12:
+Max depths after initial filling:
+AVL: 16
+Treap: 31
+Insertion time (microseconds):
+AVL: 330
+Treap: 978
+Deletion time (microseconds):
+AVL: 526
+Treap: 231
+Search time (microseconds):
+AVL: 109
+Treap: 129
+Average depths:
+AVL: 12.414
+Treap: 16.8226
+
+Repeat 13:
+Max depths after initial filling:
+AVL: 15
+Treap: 30
+Insertion time (microseconds):
+AVL: 323
+Treap: 451
+Deletion time (microseconds):
+AVL: 345
+Treap: 136
+Search time (microseconds):
+AVL: 100
+Treap: 106
+Average depths:
+AVL: 12.3686
+Treap: 16.1421
+
+Repeat 14:
+Max depths after initial filling:
+AVL: 16
+Treap: 28
+Insertion time (microseconds):
+AVL: 326
+Treap: 568
+Deletion time (microseconds):
+AVL: 328
+Treap: 131
+Search time (microseconds):
+AVL: 98
+Treap: 107
+Average depths:
+AVL: 12.3717
+Treap: 16.6334
+
+Repeat 15:
+Max depths after initial filling:
+AVL: 16
+Treap: 26
+Insertion time (microseconds):
+AVL: 309
+Treap: 446
+Deletion time (microseconds):
+AVL: 342
+Treap: 133
+Search time (microseconds):
+AVL: 98
+Treap: 115
+Average depths:
+AVL: 12.4373
+Treap: 16.1231
+
+Repeat 16:
+Max depths after initial filling:
+AVL: 16
+Treap: 29
+Insertion time (microseconds):
+AVL: 330
+Treap: 407
+Deletion time (microseconds):
+AVL: 347
+Treap: 131
+Search time (microseconds):
+AVL: 99
+Treap: 110
+Average depths:
+AVL: 12.4303
+Treap: 16.8564
+
+Repeat 17:
+Max depths after initial filling:
+AVL: 16
+Treap: 34
+Insertion time (microseconds):
+AVL: 342
+Treap: 414
+Deletion time (microseconds):
+AVL: 351
+Treap: 137
+Search time (microseconds):
+AVL: 97
+Treap: 114
+Average depths:
+AVL: 12.4143
+Treap: 16.9493
+
+Repeat 18:
+Max depths after initial filling:
+AVL: 16
+Treap: 29
+Insertion time (microseconds):
+AVL: 314
+Treap: 480
+Deletion time (microseconds):
+AVL: 352
+Treap: 136
+Search time (microseconds):
+AVL: 101
+Treap: 114
+Average depths:
+AVL: 12.4787
+Treap: 16.628
+
+Repeat 19:
+Max depths after initial filling:
+AVL: 16
+Treap: 32
+Insertion time (microseconds):
+AVL: 486
+Treap: 604
+Deletion time (microseconds):
+AVL: 458
+Treap: 183
+Search time (microseconds):
+AVL: 109
+Treap: 117
+Average depths:
+AVL: 12.3603
+Treap: 17.5397
+
+Repeat 20:
+Max depths after initial filling:
+AVL: 16
+Treap: 28
+Insertion time (microseconds):
+AVL: 342
+Treap: 432
+Deletion time (microseconds):
+AVL: 349
+Treap: 131
+Search time (microseconds):
+AVL: 97
+Treap: 107
+Average depths:
+AVL: 12.3983
+Treap: 15.9869
+
+Repeat 21:
+Max depths after initial filling:
+AVL: 16
+Treap: 31
+Insertion time (microseconds):
+AVL: 289
+Treap: 451
+Deletion time (microseconds):
+AVL: 339
+Treap: 135
+Search time (microseconds):
+AVL: 97
+Treap: 109
+Average depths:
+AVL: 12.448
+Treap: 17.1437
+
+Repeat 22:
+Max depths after initial filling:
+AVL: 16
+Treap: 28
+Insertion time (microseconds):
+AVL: 339
+Treap: 583
+Deletion time (microseconds):
+AVL: 353
+Treap: 128
+Search time (microseconds):
+AVL: 101
+Treap: 110
+Average depths:
+AVL: 12.5201
+Treap: 16.7095
+
+Repeat 23:
+Max depths after initial filling:
+AVL: 16
+Treap: 30
+Insertion time (microseconds):
+AVL: 342
+Treap: 509
+Deletion time (microseconds):
+AVL: 351
+Treap: 134
+Search time (microseconds):
+AVL: 96
+Treap: 108
+Average depths:
+AVL: 12.4826
+Treap: 16.3624
+
+Repeat 24:
+Max depths after initial filling:
+AVL: 16
+Treap: 29
+Insertion time (microseconds):
+AVL: 292
+Treap: 454
+Deletion time (microseconds):
+AVL: 341
+Treap: 158
+Search time (microseconds):
+AVL: 98
+Treap: 105
+Average depths:
+AVL: 12.3686
+Treap: 15.859
+
+Repeat 25:
+Max depths after initial filling:
+AVL: 16
+Treap: 33
+Insertion time (microseconds):
+AVL: 341
+Treap: 452
+Deletion time (microseconds):
+AVL: 351
+Treap: 143
+Search time (microseconds):
+AVL: 102
+Treap: 118
+Average depths:
+AVL: 12.4303
+Treap: 16.7175
+
+Repeat 26:
+Max depths after initial filling:
+AVL: 16
+Treap: 36
+Insertion time (microseconds):
+AVL: 344
+Treap: 443
+Deletion time (microseconds):
+AVL: 379
+Treap: 138
+Search time (microseconds):
+AVL: 100
+Treap: 108
+Average depths:
+AVL: 12.3676
+Treap: 17.2491
+
+Repeat 27:
+Max depths after initial filling:
+AVL: 16
+Treap: 29
+Insertion time (microseconds):
+AVL: 332
+Treap: 618
+Deletion time (microseconds):
+AVL: 349
+Treap: 134
+Search time (microseconds):
+AVL: 103
+Treap: 116
+Average depths:
+AVL: 12.4057
+Treap: 17.1949
+
+Repeat 28:
+Max depths after initial filling:
+AVL: 15
+Treap: 31
+Insertion time (microseconds):
+AVL: 293
+Treap: 492
+Deletion time (microseconds):
+AVL: 368
+Treap: 139
+Search time (microseconds):
+AVL: 97
+Treap: 109
+Average depths:
+AVL: 12.3399
+Treap: 16.5442
+
+Repeat 29:
+Max depths after initial filling:
+AVL: 16
+Treap: 31
+Insertion time (microseconds):
+AVL: 348
+Treap: 557
+Deletion time (microseconds):
+AVL: 353
+Treap: 130
+Search time (microseconds):
+AVL: 99
+Treap: 115
+Average depths:
+AVL: 12.4346
+Treap: 15.8
+
+Repeat 30:
+Max depths after initial filling:
+AVL: 16
+Treap: 27
+Insertion time (microseconds):
+AVL: 348
+Treap: 534
+Deletion time (microseconds):
+AVL: 488
+Treap: 188
+Search time (microseconds):
+AVL: 105
+Treap: 114
+Average depths:
+AVL: 12.4038
+Treap: 15.7878
+
+Repeat 31:
+Max depths after initial filling:
+AVL: 15
+Treap: 31
+Insertion time (microseconds):
+AVL: 310
+Treap: 449
+Deletion time (microseconds):
+AVL: 368
+Treap: 159
+Search time (microseconds):
+AVL: 101
+Treap: 111
+Average depths:
+AVL: 12.4289
+Treap: 17.2778
+
+Repeat 32:
+Max depths after initial filling:
+AVL: 16
+Treap: 30
+Insertion time (microseconds):
+AVL: 383
+Treap: 420
+Deletion time (microseconds):
+AVL: 355
+Treap: 133
+Search time (microseconds):
+AVL: 100
+Treap: 109
+Average depths:
+AVL: 12.4892
+Treap: 16.1401
+
+Repeat 33:
+Max depths after initial filling:
+AVL: 16
+Treap: 31
+Insertion time (microseconds):
+AVL: 343
+Treap: 442
+Deletion time (microseconds):
+AVL: 375
+Treap: 146
+Search time (microseconds):
+AVL: 100
+Treap: 118
+Average depths:
+AVL: 12.4234
+Treap: 17.1103
+
+Repeat 34:
+Max depths after initial filling:
+AVL: 15
+Treap: 31
+Insertion time (microseconds):
+AVL: 457
+Treap: 857
+Deletion time (microseconds):
+AVL: 579
+Treap: 256
+Search time (microseconds):
+AVL: 126
+Treap: 123
+Average depths:
+AVL: 12.4479
+Treap: 16.3906
+
+Repeat 35:
+Max depths after initial filling:
+AVL: 15
+Treap: 27
+Insertion time (microseconds):
+AVL: 346
+Treap: 737
+Deletion time (microseconds):
+AVL: 834
+Treap: 377
+Search time (microseconds):
+AVL: 208
+Treap: 182
+Average depths:
+AVL: 12.3626
+Treap: 15.4792
+
+Repeat 36:
+Max depths after initial filling:
+AVL: 16
+Treap: 30
+Insertion time (microseconds):
+AVL: 406
+Treap: 451
+Deletion time (microseconds):
+AVL: 554
+Treap: 180
+Search time (microseconds):
+AVL: 108
+Treap: 115
+Average depths:
+AVL: 12.4413
+Treap: 17.286
+
+Repeat 37:
+Max depths after initial filling:
+AVL: 16
+Treap: 30
+Insertion time (microseconds):
+AVL: 312
+Treap: 448
+Deletion time (microseconds):
+AVL: 348
+Treap: 131
+Search time (microseconds):
+AVL: 99
+Treap: 110
+Average depths:
+AVL: 12.4912
+Treap: 16.5322
+
+Repeat 38:
+Max depths after initial filling:
+AVL: 16
+Treap: 28
+Insertion time (microseconds):
+AVL: 335
+Treap: 458
+Deletion time (microseconds):
+AVL: 361
+Treap: 134
+Search time (microseconds):
+AVL: 99
+Treap: 109
+Average depths:
+AVL: 12.3726
+Treap: 16.5063
+
+Repeat 39:
+Max depths after initial filling:
+AVL: 16
+Treap: 32
+Insertion time (microseconds):
+AVL: 359
+Treap: 540
+Deletion time (microseconds):
+AVL: 657
+Treap: 287
+Search time (microseconds):
+AVL: 239
+Treap: 192
+Average depths:
+AVL: 12.4721
+Treap: 16.9202
+
+Repeat 40:
+Max depths after initial filling:
+AVL: 16
+Treap: 33
+Insertion time (microseconds):
+AVL: 320
+Treap: 440
+Deletion time (microseconds):
+AVL: 356
+Treap: 138
+Search time (microseconds):
+AVL: 99
+Treap: 109
+Average depths:
+AVL: 12.4524
+Treap: 17.4684
+
+Repeat 41:
+Max depths after initial filling:
+AVL: 16
+Treap: 34
+Insertion time (microseconds):
+AVL: 353
+Treap: 484
+Deletion time (microseconds):
+AVL: 354
+Treap: 151
+Search time (microseconds):
+AVL: 109
+Treap: 113
+Average depths:
+AVL: 12.4387
+Treap: 17.1815
+
+Repeat 42:
+Max depths after initial filling:
+AVL: 16
+Treap: 28
+Insertion time (microseconds):
+AVL: 350
+Treap: 452
+Deletion time (microseconds):
+AVL: 356
+Treap: 141
+Search time (microseconds):
+AVL: 97
+Treap: 104
+Average depths:
+AVL: 12.4355
+Treap: 16.975
+
+Repeat 43:
+Max depths after initial filling:
+AVL: 15
+Treap: 28
+Insertion time (microseconds):
+AVL: 321
+Treap: 474
+Deletion time (microseconds):
+AVL: 345
+Treap: 144
+Search time (microseconds):
+AVL: 111
+Treap: 112
+Average depths:
+AVL: 12.4318
+Treap: 16.1863
+
+Repeat 44:
+Max depths after initial filling:
+AVL: 15
+Treap: 29
+Insertion time (microseconds):
+AVL: 353
+Treap: 466
+Deletion time (microseconds):
+AVL: 526
+Treap: 179
+Search time (microseconds):
+AVL: 105
+Treap: 112
+Average depths:
+AVL: 12.4624
+Treap: 16.5248
+
+Repeat 45:
+Max depths after initial filling:
+AVL: 16
+Treap: 31
+Insertion time (microseconds):
+AVL: 395
+Treap: 481
+Deletion time (microseconds):
+AVL: 489
+Treap: 206
+Search time (microseconds):
+AVL: 113
+Treap: 118
+Average depths:
+AVL: 12.3731
+Treap: 17.2934
+
+Repeat 46:
+Max depths after initial filling:
+AVL: 16
+Treap: 31
+Insertion time (microseconds):
+AVL: 325
+Treap: 995
+Deletion time (microseconds):
+AVL: 1043
+Treap: 330
+Search time (microseconds):
+AVL: 184
+Treap: 153
+Average depths:
+AVL: 12.4162
+Treap: 18.0223
+
+Repeat 47:
+Max depths after initial filling:
+AVL: 15
+Treap: 32
+Insertion time (microseconds):
+AVL: 316
+Treap: 545
+Deletion time (microseconds):
+AVL: 358
+Treap: 152
+Search time (microseconds):
+AVL: 103
+Treap: 114
+Average depths:
+AVL: 12.4196
+Treap: 17.6874
+
+Repeat 48:
+Max depths after initial filling:
+AVL: 16
+Treap: 31
+Insertion time (microseconds):
+AVL: 347
+Treap: 493
+Deletion time (microseconds):
+AVL: 442
+Treap: 164
+Search time (microseconds):
+AVL: 111
+Treap: 124
+Average depths:
+AVL: 12.5564
+Treap: 16.2702
+
+Repeat 49:
+Max depths after initial filling:
+AVL: 16
+Treap: 28
+Insertion time (microseconds):
+AVL: 326
+Treap: 433
+Deletion time (microseconds):
+AVL: 341
+Treap: 130
+Search time (microseconds):
+AVL: 97
+Treap: 105
+Average depths:
+AVL: 12.4223
+Treap: 15.7484
+
+Repeat 50:
+Max depths after initial filling:
+AVL: 16
+Treap: 34
+Insertion time (microseconds):
+AVL: 295
+Treap: 462
+Deletion time (microseconds):
+AVL: 366
+Treap: 131
+Search time (microseconds):
+AVL: 102
+Treap: 109
+Average depths:
+AVL: 12.3811
+Treap: 16.2971
+
+Testing for N = 16384 elements
+====================================
+
+Repeat 1:
+Max depths after initial filling:
+AVL: 17
+Treap: 32
+Insertion time (microseconds):
+AVL: 355
+Treap: 436
+Deletion time (microseconds):
+AVL: 389
+Treap: 166
+Search time (microseconds):
+AVL: 111
+Treap: 133
+Average depths:
+AVL: 13.4777
+Treap: 17.8424
+
+Repeat 2:
+Max depths after initial filling:
+AVL: 17
+Treap: 34
+Insertion time (microseconds):
+AVL: 354
+Treap: 452
+Deletion time (microseconds):
+AVL: 603
+Treap: 316
+Search time (microseconds):
+AVL: 140
+Treap: 154
+Average depths:
+AVL: 13.4218
+Treap: 19.582
+
+Repeat 3:
+Max depths after initial filling:
+AVL: 17
+Treap: 34
+Insertion time (microseconds):
+AVL: 511
+Treap: 647
+Deletion time (microseconds):
+AVL: 2378
+Treap: 1387
+Search time (microseconds):
+AVL: 548
+Treap: 404
+Average depths:
+AVL: 13.4671
+Treap: 18.9005
+
+Repeat 4:
+Max depths after initial filling:
+AVL: 17
+Treap: 38
+Insertion time (microseconds):
+AVL: 381
+Treap: 462
+Deletion time (microseconds):
+AVL: 910
+Treap: 459
+Search time (microseconds):
+AVL: 266
+Treap: 194
+Average depths:
+AVL: 13.4237
+Treap: 20.829
+
+Repeat 5:
+Max depths after initial filling:
+AVL: 17
+Treap: 31
+Insertion time (microseconds):
+AVL: 359
+Treap: 521
+Deletion time (microseconds):
+AVL: 659
+Treap: 348
+Search time (microseconds):
+AVL: 158
+Treap: 146
+Average depths:
+AVL: 13.4098
+Treap: 16.9916
+
+Repeat 6:
+Max depths after initial filling:
+AVL: 17
+Treap: 34
+Insertion time (microseconds):
+AVL: 319
+Treap: 490
+Deletion time (microseconds):
+AVL: 471
+Treap: 207
+Search time (microseconds):
+AVL: 121
+Treap: 136
+Average depths:
+AVL: 13.3725
+Treap: 18.0147
+
+Repeat 7:
+Max depths after initial filling:
+AVL: 17
+Treap: 31
+Insertion time (microseconds):
+AVL: 382
+Treap: 559
+Deletion time (microseconds):
+AVL: 889
+Treap: 382
+Search time (microseconds):
+AVL: 163
+Treap: 175
+Average depths:
+AVL: 13.3945
+Treap: 17.8319
+
+Repeat 8:
+Max depths after initial filling:
+AVL: 17
+Treap: 36
+Insertion time (microseconds):
+AVL: 359
+Treap: 473
+Deletion time (microseconds):
+AVL: 495
+Treap: 249
+Search time (microseconds):
+AVL: 126
+Treap: 135
+Average depths:
+AVL: 13.3888
+Treap: 18.3864
+
+Repeat 9:
+Max depths after initial filling:
+AVL: 17
+Treap: 31
+Insertion time (microseconds):
+AVL: 325
+Treap: 461
+Deletion time (microseconds):
+AVL: 489
+Treap: 170
+Search time (microseconds):
+AVL: 115
+Treap: 127
+Average depths:
+AVL: 13.3854
+Treap: 17.2953
+
+Repeat 10:
+Max depths after initial filling:
+AVL: 17
+Treap: 32
+Insertion time (microseconds):
+AVL: 362
+Treap: 408
+Deletion time (microseconds):
+AVL: 396
+Treap: 172
+Search time (microseconds):
+AVL: 115
+Treap: 127
+Average depths:
+AVL: 13.4133
+Treap: 18.7905
+
+Repeat 11:
+Max depths after initial filling:
+AVL: 16
+Treap: 30
+Insertion time (microseconds):
+AVL: 330
+Treap: 416
+Deletion time (microseconds):
+AVL: 380
+Treap: 180
+Search time (microseconds):
+AVL: 107
+Treap: 126
+Average depths:
+AVL: 13.4122
+Treap: 17.4333
+
+Repeat 12:
+Max depths after initial filling:
+AVL: 17
+Treap: 31
+Insertion time (microseconds):
+AVL: 416
+Treap: 430
+Deletion time (microseconds):
+AVL: 632
+Treap: 244
+Search time (microseconds):
+AVL: 138
+Treap: 130
+Average depths:
+AVL: 13.4592
+Treap: 17.1804
+
+Repeat 13:
+Max depths after initial filling:
+AVL: 17
+Treap: 32
+Insertion time (microseconds):
+AVL: 363
+Treap: 442
+Deletion time (microseconds):
+AVL: 409
+Treap: 174
+Search time (microseconds):
+AVL: 113
+Treap: 124
+Average depths:
+AVL: 13.4497
+Treap: 17.4754
+
+Repeat 14:
+Max depths after initial filling:
+AVL: 17
+Treap: 30
+Insertion time (microseconds):
+AVL: 317
+Treap: 521
+Deletion time (microseconds):
+AVL: 414
+Treap: 167
+Search time (microseconds):
+AVL: 110
+Treap: 126
+Average depths:
+AVL: 13.3762
+Treap: 17.0678
+
+Repeat 15:
+Max depths after initial filling:
+AVL: 17
+Treap: 31
+Insertion time (microseconds):
+AVL: 345
+Treap: 543
+Deletion time (microseconds):
+AVL: 386
+Treap: 172
+Search time (microseconds):
+AVL: 113
+Treap: 132
+Average depths:
+AVL: 13.4205
+Treap: 19.1022
+
+Repeat 16:
+Max depths after initial filling:
+AVL: 17
+Treap: 32
+Insertion time (microseconds):
+AVL: 343
+Treap: 520
+Deletion time (microseconds):
+AVL: 387
+Treap: 171
+Search time (microseconds):
+AVL: 136
+Treap: 148
+Average depths:
+AVL: 13.387
+Treap: 17.3809
+
+Repeat 17:
+Max depths after initial filling:
+AVL: 17
+Treap: 32
+Insertion time (microseconds):
+AVL: 349
+Treap: 466
+Deletion time (microseconds):
+AVL: 696
+Treap: 276
+Search time (microseconds):
+AVL: 123
+Treap: 133
+Average depths:
+AVL: 13.4068
+Treap: 17.3789
+
+Repeat 18:
+Max depths after initial filling:
+AVL: 17
+Treap: 35
+Insertion time (microseconds):
+AVL: 364
+Treap: 455
+Deletion time (microseconds):
+AVL: 404
+Treap: 176
+Search time (microseconds):
+AVL: 111
+Treap: 127
+Average depths:
+AVL: 13.4338
+Treap: 18.0341
+
+Repeat 19:
+Max depths after initial filling:
+AVL: 17
+Treap: 36
+Insertion time (microseconds):
+AVL: 354
+Treap: 465
+Deletion time (microseconds):
+AVL: 383
+Treap: 168
+Search time (microseconds):
+AVL: 111
+Treap: 129
+Average depths:
+AVL: 13.411
+Treap: 17.969
+
+Repeat 20:
+Max depths after initial filling:
+AVL: 17
+Treap: 31
+Insertion time (microseconds):
+AVL: 344
+Treap: 524
+Deletion time (microseconds):
+AVL: 397
+Treap: 168
+Search time (microseconds):
+AVL: 112
+Treap: 130
+Average depths:
+AVL: 13.4647
+Treap: 17.5556
+
+Repeat 21:
+Max depths after initial filling:
+AVL: 17
+Treap: 32
+Insertion time (microseconds):
+AVL: 355
+Treap: 500
+Deletion time (microseconds):
+AVL: 414
+Treap: 167
+Search time (microseconds):
+AVL: 107
+Treap: 132
+Average depths:
+AVL: 13.3846
+Treap: 17.2295
+
+Repeat 22:
+Max depths after initial filling:
+AVL: 17
+Treap: 35
+Insertion time (microseconds):
+AVL: 362
+Treap: 535
+Deletion time (microseconds):
+AVL: 497
+Treap: 265
+Search time (microseconds):
+AVL: 124
+Treap: 146
+Average depths:
+AVL: 13.4337
+Treap: 18.4188
+
+Repeat 23:
+Max depths after initial filling:
+AVL: 17
+Treap: 33
+Insertion time (microseconds):
+AVL: 370
+Treap: 449
+Deletion time (microseconds):
+AVL: 394
+Treap: 169
+Search time (microseconds):
+AVL: 108
+Treap: 128
+Average depths:
+AVL: 13.4648
+Treap: 19.3607
+
+Repeat 24:
+Max depths after initial filling:
+AVL: 17
+Treap: 34
+Insertion time (microseconds):
+AVL: 339
+Treap: 531
+Deletion time (microseconds):
+AVL: 386
+Treap: 173
+Search time (microseconds):
+AVL: 109
+Treap: 135
+Average depths:
+AVL: 13.3716
+Treap: 19.092
+
+Repeat 25:
+Max depths after initial filling:
+AVL: 17
+Treap: 32
+Insertion time (microseconds):
+AVL: 395
+Treap: 554
+Deletion time (microseconds):
+AVL: 785
+Treap: 442
+Search time (microseconds):
+AVL: 173
+Treap: 180
+Average depths:
+AVL: 13.4325
+Treap: 17.3936
+
+Repeat 26:
+Max depths after initial filling:
+AVL: 17
+Treap: 33
+Insertion time (microseconds):
+AVL: 394
+Treap: 473
+Deletion time (microseconds):
+AVL: 601
+Treap: 204
+Search time (microseconds):
+AVL: 118
+Treap: 129
+Average depths:
+AVL: 13.4033
+Treap: 17.6108
+
+Repeat 27:
+Max depths after initial filling:
+AVL: 17
+Treap: 35
+Insertion time (microseconds):
+AVL: 371
+Treap: 484
+Deletion time (microseconds):
+AVL: 502
+Treap: 243
+Search time (microseconds):
+AVL: 118
+Treap: 139
+Average depths:
+AVL: 13.4122
+Treap: 17.4539
+
+Repeat 28:
+Max depths after initial filling:
+AVL: 17
+Treap: 33
+Insertion time (microseconds):
+AVL: 346
+Treap: 472
+Deletion time (microseconds):
+AVL: 396
+Treap: 166
+Search time (microseconds):
+AVL: 110
+Treap: 130
+Average depths:
+AVL: 13.3886
+Treap: 17.3946
+
+Repeat 29:
+Max depths after initial filling:
+AVL: 17
+Treap: 36
+Insertion time (microseconds):
+AVL: 345
+Treap: 463
+Deletion time (microseconds):
+AVL: 386
+Treap: 179
+Search time (microseconds):
+AVL: 108
+Treap: 129
+Average depths:
+AVL: 13.3976
+Treap: 17.8254
+
+Repeat 30:
+Max depths after initial filling:
+AVL: 17
+Treap: 32
+Insertion time (microseconds):
+AVL: 377
+Treap: 521
+Deletion time (microseconds):
+AVL: 425
+Treap: 176
+Search time (microseconds):
+AVL: 136
+Treap: 135
+Average depths:
+AVL: 13.5074
+Treap: 18.0979
+
+Repeat 31:
+Max depths after initial filling:
+AVL: 17
+Treap: 34
+Insertion time (microseconds):
+AVL: 366
+Treap: 486
+Deletion time (microseconds):
+AVL: 397
+Treap: 181
+Search time (microseconds):
+AVL: 119
+Treap: 140
+Average depths:
+AVL: 13.438
+Treap: 17.57
+
+Repeat 32:
+Max depths after initial filling:
+AVL: 17
+Treap: 34
+Insertion time (microseconds):
+AVL: 360
+Treap: 472
+Deletion time (microseconds):
+AVL: 398
+Treap: 174
+Search time (microseconds):
+AVL: 109
+Treap: 128
+Average depths:
+AVL: 13.4213
+Treap: 17.9239
+
+Repeat 33:
+Max depths after initial filling:
+AVL: 17
+Treap: 34
+Insertion time (microseconds):
+AVL: 364
+Treap: 478
+Deletion time (microseconds):
+AVL: 382
+Treap: 175
+Search time (microseconds):
+AVL: 108
+Treap: 127
+Average depths:
+AVL: 13.4433
+Treap: 17.5928
+
+Repeat 34:
+Max depths after initial filling:
+AVL: 17
+Treap: 32
+Insertion time (microseconds):
+AVL: 332
+Treap: 532
+Deletion time (microseconds):
+AVL: 394
+Treap: 164
+Search time (microseconds):
+AVL: 108
+Treap: 130
+Average depths:
+AVL: 13.4394
+Treap: 17.5679
+
+Repeat 35:
+Max depths after initial filling:
+AVL: 16
+Treap: 31
+Insertion time (microseconds):
+AVL: 327
+Treap: 427
+Deletion time (microseconds):
+AVL: 389
+Treap: 163
+Search time (microseconds):
+AVL: 108
+Treap: 125
+Average depths:
+AVL: 13.3995
+Treap: 17.3022
+
+Repeat 36:
+Max depths after initial filling:
+AVL: 17
+Treap: 37
+Insertion time (microseconds):
+AVL: 302
+Treap: 421
+Deletion time (microseconds):
+AVL: 402
+Treap: 178
+Search time (microseconds):
+AVL: 109
+Treap: 135
+Average depths:
+AVL: 13.3698
+Treap: 18.2436
+
+Repeat 37:
+Max depths after initial filling:
+AVL: 17
+Treap: 31
+Insertion time (microseconds):
+AVL: 322
+Treap: 472
+Deletion time (microseconds):
+AVL: 457
+Treap: 181
+Search time (microseconds):
+AVL: 110
+Treap: 124
+Average depths:
+AVL: 13.4061
+Treap: 17.2462
+
+Repeat 38:
+Max depths after initial filling:
+AVL: 17
+Treap: 35
+Insertion time (microseconds):
+AVL: 323
+Treap: 449
+Deletion time (microseconds):
+AVL: 662
+Treap: 358
+Search time (microseconds):
+AVL: 168
+Treap: 156
+Average depths:
+AVL: 13.4172
+Treap: 17.5091
+
+Repeat 39:
+Max depths after initial filling:
+AVL: 17
+Treap: 38
+Insertion time (microseconds):
+AVL: 307
+Treap: 493
+Deletion time (microseconds):
+AVL: 378
+Treap: 170
+Search time (microseconds):
+AVL: 107
+Treap: 129
+Average depths:
+AVL: 13.4147
+Treap: 18.512
+
+Repeat 40:
+Max depths after initial filling:
+AVL: 17
+Treap: 34
+Insertion time (microseconds):
+AVL: 305
+Treap: 496
+Deletion time (microseconds):
+AVL: 386
+Treap: 166
+Search time (microseconds):
+AVL: 110
+Treap: 128
+Average depths:
+AVL: 13.392
+Treap: 18.2018
+
+Repeat 41:
+Max depths after initial filling:
+AVL: 17
+Treap: 30
+Insertion time (microseconds):
+AVL: 330
+Treap: 530
+Deletion time (microseconds):
+AVL: 637
+Treap: 226
+Search time (microseconds):
+AVL: 122
+Treap: 137
+Average depths:
+AVL: 13.3855
+Treap: 17.3463
+
+Repeat 42:
+Max depths after initial filling:
+AVL: 17
+Treap: 34
+Insertion time (microseconds):
+AVL: 366
+Treap: 489
+Deletion time (microseconds):
+AVL: 779
+Treap: 416
+Search time (microseconds):
+AVL: 194
+Treap: 154
+Average depths:
+AVL: 13.4211
+Treap: 17.9662
+
+Repeat 43:
+Max depths after initial filling:
+AVL: 17
+Treap: 31
+Insertion time (microseconds):
+AVL: 342
+Treap: 571
+Deletion time (microseconds):
+AVL: 554
+Treap: 231
+Search time (microseconds):
+AVL: 144
+Treap: 181
+Average depths:
+AVL: 13.3944
+Treap: 18.7307
+
+Repeat 44:
+Max depths after initial filling:
+AVL: 17
+Treap: 33
+Insertion time (microseconds):
+AVL: 357
+Treap: 544
+Deletion time (microseconds):
+AVL: 700
+Treap: 751
+Search time (microseconds):
+AVL: 423
+Treap: 408
+Average depths:
+AVL: 13.3589
+Treap: 18.0982
+
+Repeat 45:
+Max depths after initial filling:
+AVL: 17
+Treap: 34
+Insertion time (microseconds):
+AVL: 313
+Treap: 441
+Deletion time (microseconds):
+AVL: 417
+Treap: 221
+Search time (microseconds):
+AVL: 116
+Treap: 135
+Average depths:
+AVL: 13.401
+Treap: 17.4559
+
+Repeat 46:
+Max depths after initial filling:
+AVL: 17
+Treap: 36
+Insertion time (microseconds):
+AVL: 348
+Treap: 471
+Deletion time (microseconds):
+AVL: 506
+Treap: 347
+Search time (microseconds):
+AVL: 150
+Treap: 154
+Average depths:
+AVL: 13.4197
+Treap: 17.9276
+
+Repeat 47:
+Max depths after initial filling:
+AVL: 17
+Treap: 33
+Insertion time (microseconds):
+AVL: 493
+Treap: 569
+Deletion time (microseconds):
+AVL: 860
+Treap: 614
+Search time (microseconds):
+AVL: 358
+Treap: 311
+Average depths:
+AVL: 13.4607
+Treap: 17.4506
+
+Repeat 48:
+Max depths after initial filling:
+AVL: 17
+Treap: 33
+Insertion time (microseconds):
+AVL: 362
+Treap: 531
+Deletion time (microseconds):
+AVL: 464
+Treap: 204
+Search time (microseconds):
+AVL: 134
+Treap: 156
+Average depths:
+AVL: 13.386
+Treap: 17.1698
+
+Repeat 49:
+Max depths after initial filling:
+AVL: 17
+Treap: 32
+Insertion time (microseconds):
+AVL: 335
+Treap: 474
+Deletion time (microseconds):
+AVL: 676
+Treap: 376
+Search time (microseconds):
+AVL: 175
+Treap: 179
+Average depths:
+AVL: 13.4151
+Treap: 17.6134
+
+Repeat 50:
+Max depths after initial filling:
+AVL: 17
+Treap: 33
+Insertion time (microseconds):
+AVL: 324
+Treap: 536
+Deletion time (microseconds):
+AVL: 428
+Treap: 177
+Search time (microseconds):
+AVL: 109
+Treap: 175
+Average depths:
+AVL: 13.4016
+Treap: 18.2367
+
+Testing for N = 32768 elements
+====================================
+
+Repeat 1:
+Max depths after initial filling:
+AVL: 18
+Treap: 34
+Insertion time (microseconds):
+AVL: 399
+Treap: 521
+Deletion time (microseconds):
+AVL: 1148
+Treap: 788
+Search time (microseconds):
+AVL: 374
+Treap: 487
+Average depths:
+AVL: 14.4127
+Treap: 19.1402
+
+Repeat 2:
+Max depths after initial filling:
+AVL: 18
+Treap: 35
+Insertion time (microseconds):
+AVL: 632
+Treap: 771
+Deletion time (microseconds):
+AVL: 1121
+Treap: 710
+Search time (microseconds):
+AVL: 359
+Treap: 388
+Average depths:
+AVL: 14.4589
+Treap: 18.8377
+
+Repeat 3:
+Max depths after initial filling:
+AVL: 18
+Treap: 36
+Insertion time (microseconds):
+AVL: 427
+Treap: 557
+Deletion time (microseconds):
+AVL: 770
+Treap: 626
+Search time (microseconds):
+AVL: 270
+Treap: 251
+Average depths:
+AVL: 14.4333
+Treap: 18.633
+
+Repeat 4:
+Max depths after initial filling:
+AVL: 18
+Treap: 38
+Insertion time (microseconds):
+AVL: 397
+Treap: 480
+Deletion time (microseconds):
+AVL: 867
+Treap: 423
+Search time (microseconds):
+AVL: 186
+Treap: 184
+Average depths:
+AVL: 14.4681
+Treap: 19.5619
+
+Repeat 5:
+Max depths after initial filling:
+AVL: 18
+Treap: 32
+Insertion time (microseconds):
+AVL: 351
+Treap: 500
+Deletion time (microseconds):
+AVL: 425
+Treap: 201
+Search time (microseconds):
+AVL: 117
+Treap: 141
+Average depths:
+AVL: 14.4352
+Treap: 18.1409
+
+Repeat 6:
+Max depths after initial filling:
+AVL: 18
+Treap: 35
+Insertion time (microseconds):
+AVL: 492
+Treap: 458
+Deletion time (microseconds):
+AVL: 887
+Treap: 548
+Search time (microseconds):
+AVL: 173
+Treap: 191
+Average depths:
+AVL: 14.3919
+Treap: 19.2118
+
+Repeat 7:
+Max depths after initial filling:
+AVL: 18
+Treap: 35
+Insertion time (microseconds):
+AVL: 396
+Treap: 573
+Deletion time (microseconds):
+AVL: 502
+Treap: 362
+Search time (microseconds):
+AVL: 198
+Treap: 197
+Average depths:
+AVL: 14.4155
+Treap: 19.7557
+
+Repeat 8:
+Max depths after initial filling:
+AVL: 18
+Treap: 38
+Insertion time (microseconds):
+AVL: 389
+Treap: 595
+Deletion time (microseconds):
+AVL: 808
+Treap: 286
+Search time (microseconds):
+AVL: 158
+Treap: 178
+Average depths:
+AVL: 14.4604
+Treap: 18.7327
+
+Repeat 9:
+Max depths after initial filling:
+AVL: 18
+Treap: 35
+Insertion time (microseconds):
+AVL: 401
+Treap: 540
+Deletion time (microseconds):
+AVL: 603
+Treap: 516
+Search time (microseconds):
+AVL: 176
+Treap: 192
+Average depths:
+AVL: 14.4827
+Treap: 18.7415
+
+Repeat 10:
+Max depths after initial filling:
+AVL: 18
+Treap: 39
+Insertion time (microseconds):
+AVL: 367
+Treap: 517
+Deletion time (microseconds):
+AVL: 1111
+Treap: 731
+Search time (microseconds):
+AVL: 516
+Treap: 384
+Average depths:
+AVL: 14.3792
+Treap: 18.3776
+
+Repeat 11:
+Max depths after initial filling:
+AVL: 18
+Treap: 36
+Insertion time (microseconds):
+AVL: 377
+Treap: 562
+Deletion time (microseconds):
+AVL: 722
+Treap: 518
+Search time (microseconds):
+AVL: 165
+Treap: 204
+Average depths:
+AVL: 14.4875
+Treap: 19.0856
+
+Repeat 12:
+Max depths after initial filling:
+AVL: 18
+Treap: 35
+Insertion time (microseconds):
+AVL: 373
+Treap: 506
+Deletion time (microseconds):
+AVL: 527
+Treap: 288
+Search time (microseconds):
+AVL: 194
+Treap: 238
+Average depths:
+AVL: 14.4149
+Treap: 18.168
+
+Repeat 13:
+Max depths after initial filling:
+AVL: 18
+Treap: 36
+Insertion time (microseconds):
+AVL: 361
+Treap: 514
+Deletion time (microseconds):
+AVL: 824
+Treap: 294
+Search time (microseconds):
+AVL: 149
+Treap: 163
+Average depths:
+AVL: 14.4694
+Treap: 20.1651
+
+Repeat 14:
+Max depths after initial filling:
+AVL: 18
+Treap: 38
+Insertion time (microseconds):
+AVL: 392
+Treap: 484
+Deletion time (microseconds):
+AVL: 439
+Treap: 209
+Search time (microseconds):
+AVL: 119
+Treap: 154
+Average depths:
+AVL: 14.4801
+Treap: 19.8876
+
+Repeat 15:
+Max depths after initial filling:
+AVL: 18
+Treap: 36
+Insertion time (microseconds):
+AVL: 378
+Treap: 490
+Deletion time (microseconds):
+AVL: 486
+Treap: 288
+Search time (microseconds):
+AVL: 157
+Treap: 183
+Average depths:
+AVL: 14.4162
+Treap: 19.5314
+
+Repeat 16:
+Max depths after initial filling:
+AVL: 18
+Treap: 40
+Insertion time (microseconds):
+AVL: 383
+Treap: 470
+Deletion time (microseconds):
+AVL: 447
+Treap: 202
+Search time (microseconds):
+AVL: 120
+Treap: 145
+Average depths:
+AVL: 14.441
+Treap: 19.115
+
+Repeat 17:
+Max depths after initial filling:
+AVL: 18
+Treap: 35
+Insertion time (microseconds):
+AVL: 382
+Treap: 518
+Deletion time (microseconds):
+AVL: 829
+Treap: 279
+Search time (microseconds):
+AVL: 148
+Treap: 190
+Average depths:
+AVL: 14.4228
+Treap: 18.2635
+
+Repeat 18:
+Max depths after initial filling:
+AVL: 18
+Treap: 33
+Insertion time (microseconds):
+AVL: 336
+Treap: 446
+Deletion time (microseconds):
+AVL: 426
+Treap: 207
+Search time (microseconds):
+AVL: 119
+Treap: 148
+Average depths:
+AVL: 14.4471
+Treap: 19.0147
+
+Repeat 19:
+Max depths after initial filling:
+AVL: 18
+Treap: 35
+Insertion time (microseconds):
+AVL: 483
+Treap: 430
+Deletion time (microseconds):
+AVL: 1379
+Treap: 570
+Search time (microseconds):
+AVL: 227
+Treap: 233
+Average depths:
+AVL: 14.4562
+Treap: 18.3751
+
+Repeat 20:
+Max depths after initial filling:
+AVL: 18
+Treap: 33
+Insertion time (microseconds):
+AVL: 524
+Treap: 657
+Deletion time (microseconds):
+AVL: 1136
+Treap: 721
+Search time (microseconds):
+AVL: 368
+Treap: 355
+Average depths:
+AVL: 14.41
+Treap: 18.1484
+
+Repeat 21:
+Max depths after initial filling:
+AVL: 18
+Treap: 38
+Insertion time (microseconds):
+AVL: 419
+Treap: 571
+Deletion time (microseconds):
+AVL: 908
+Treap: 654
+Search time (microseconds):
+AVL: 536
+Treap: 329
+Average depths:
+AVL: 14.4773
+Treap: 19.1537
+
+Repeat 22:
+Max depths after initial filling:
+AVL: 18
+Treap: 36
+Insertion time (microseconds):
+AVL: 379
+Treap: 509
+Deletion time (microseconds):
+AVL: 768
+Treap: 497
+Search time (microseconds):
+AVL: 202
+Treap: 227
+Average depths:
+AVL: 14.3776
+Treap: 18.8329
+
+Repeat 23:
+Max depths after initial filling:
+AVL: 18
+Treap: 34
+Insertion time (microseconds):
+AVL: 418
+Treap: 545
+Deletion time (microseconds):
+AVL: 863
+Treap: 497
+Search time (microseconds):
+AVL: 169
+Treap: 193
+Average depths:
+AVL: 14.4713
+Treap: 18.5008
+
+Repeat 24:
+Max depths after initial filling:
+AVL: 18
+Treap: 33
+Insertion time (microseconds):
+AVL: 430
+Treap: 513
+Deletion time (microseconds):
+AVL: 457
+Treap: 215
+Search time (microseconds):
+AVL: 121
+Treap: 147
+Average depths:
+AVL: 14.455
+Treap: 19.4984
+
+Repeat 25:
+Max depths after initial filling:
+AVL: 18
+Treap: 35
+Insertion time (microseconds):
+AVL: 432
+Treap: 450
+Deletion time (microseconds):
+AVL: 877
+Treap: 524
+Search time (microseconds):
+AVL: 163
+Treap: 191
+Average depths:
+AVL: 14.4291
+Treap: 19.0276
+
+Repeat 26:
+Max depths after initial filling:
+AVL: 18
+Treap: 37
+Insertion time (microseconds):
+AVL: 324
+Treap: 517
+Deletion time (microseconds):
+AVL: 432
+Treap: 205
+Search time (microseconds):
+AVL: 119
+Treap: 143
+Average depths:
+AVL: 14.4079
+Treap: 18.473
+
+Repeat 27:
+Max depths after initial filling:
+AVL: 18
+Treap: 39
+Insertion time (microseconds):
+AVL: 372
+Treap: 439
+Deletion time (microseconds):
+AVL: 450
+Treap: 222
+Search time (microseconds):
+AVL: 121
+Treap: 149
+Average depths:
+AVL: 14.3717
+Treap: 20.2511
+
+Repeat 28:
+Max depths after initial filling:
+AVL: 18
+Treap: 36
+Insertion time (microseconds):
+AVL: 348
+Treap: 492
+Deletion time (microseconds):
+AVL: 507
+Treap: 295
+Search time (microseconds):
+AVL: 189
+Treap: 200
+Average depths:
+AVL: 14.4665
+Treap: 18.9616
+
+Repeat 29:
+Max depths after initial filling:
+AVL: 18
+Treap: 37
+Insertion time (microseconds):
+AVL: 377
+Treap: 512
+Deletion time (microseconds):
+AVL: 508
+Treap: 221
+Search time (microseconds):
+AVL: 128
+Treap: 151
+Average depths:
+AVL: 14.4615
+Treap: 19.1802
+
+Repeat 30:
+Max depths after initial filling:
+AVL: 18
+Treap: 34
+Insertion time (microseconds):
+AVL: 354
+Treap: 523
+Deletion time (microseconds):
+AVL: 439
+Treap: 203
+Search time (microseconds):
+AVL: 122
+Treap: 146
+Average depths:
+AVL: 14.3944
+Treap: 18.4905
+
+Repeat 31:
+Max depths after initial filling:
+AVL: 18
+Treap: 36
+Insertion time (microseconds):
+AVL: 358
+Treap: 485
+Deletion time (microseconds):
+AVL: 497
+Treap: 242
+Search time (microseconds):
+AVL: 189
+Treap: 288
+Average depths:
+AVL: 14.4647
+Treap: 18.9659
+
+Repeat 32:
+Max depths after initial filling:
+AVL: 18
+Treap: 33
+Insertion time (microseconds):
+AVL: 396
+Treap: 488
+Deletion time (microseconds):
+AVL: 503
+Treap: 213
+Search time (microseconds):
+AVL: 129
+Treap: 147
+Average depths:
+AVL: 14.4326
+Treap: 18.7821
+
+Repeat 33:
+Max depths after initial filling:
+AVL: 18
+Treap: 34
+Insertion time (microseconds):
+AVL: 353
+Treap: 541
+Deletion time (microseconds):
+AVL: 479
+Treap: 222
+Search time (microseconds):
+AVL: 152
+Treap: 188
+Average depths:
+AVL: 14.4388
+Treap: 18.7461
+
+Repeat 34:
+Max depths after initial filling:
+AVL: 18
+Treap: 32
+Insertion time (microseconds):
+AVL: 389
+Treap: 518
+Deletion time (microseconds):
+AVL: 770
+Treap: 427
+Search time (microseconds):
+AVL: 152
+Treap: 183
+Average depths:
+AVL: 14.4276
+Treap: 19.0723
+
+Repeat 35:
+Max depths after initial filling:
+AVL: 18
+Treap: 40
+Insertion time (microseconds):
+AVL: 387
+Treap: 480
+Deletion time (microseconds):
+AVL: 525
+Treap: 297
+Search time (microseconds):
+AVL: 222
+Treap: 210
+Average depths:
+AVL: 14.4044
+Treap: 19.6476
+
+Repeat 36:
+Max depths after initial filling:
+AVL: 18
+Treap: 34
+Insertion time (microseconds):
+AVL: 367
+Treap: 546
+Deletion time (microseconds):
+AVL: 702
+Treap: 336
+Search time (microseconds):
+AVL: 144
+Treap: 165
+Average depths:
+AVL: 14.4176
+Treap: 18.4005
+
+Repeat 37:
+Max depths after initial filling:
+AVL: 18
+Treap: 35
+Insertion time (microseconds):
+AVL: 457
+Treap: 494
+Deletion time (microseconds):
+AVL: 482
+Treap: 226
+Search time (microseconds):
+AVL: 123
+Treap: 147
+Average depths:
+AVL: 14.4781
+Treap: 19.0397
+
+Repeat 38:
+Max depths after initial filling:
+AVL: 18
+Treap: 33
+Insertion time (microseconds):
+AVL: 415
+Treap: 489
+Deletion time (microseconds):
+AVL: 764
+Treap: 408
+Search time (microseconds):
+AVL: 167
+Treap: 189
+Average depths:
+AVL: 14.3935
+Treap: 18.4295
+
+Repeat 39:
+Max depths after initial filling:
+AVL: 18
+Treap: 35
+Insertion time (microseconds):
+AVL: 381
+Treap: 487
+Deletion time (microseconds):
+AVL: 439
+Treap: 204
+Search time (microseconds):
+AVL: 120
+Treap: 147
+Average depths:
+AVL: 14.484
+Treap: 18.2711
+
+Repeat 40:
+Max depths after initial filling:
+AVL: 18
+Treap: 37
+Insertion time (microseconds):
+AVL: 381
+Treap: 493
+Deletion time (microseconds):
+AVL: 491
+Treap: 226
+Search time (microseconds):
+AVL: 122
+Treap: 155
+Average depths:
+AVL: 14.4494
+Treap: 21.0518
+
+Repeat 41:
+Max depths after initial filling:
+AVL: 18
+Treap: 35
+Insertion time (microseconds):
+AVL: 339
+Treap: 503
+Deletion time (microseconds):
+AVL: 489
+Treap: 233
+Search time (microseconds):
+AVL: 129
+Treap: 152
+Average depths:
+AVL: 14.3839
+Treap: 18.9812
+
+Repeat 42:
+Max depths after initial filling:
+AVL: 18
+Treap: 40
+Insertion time (microseconds):
+AVL: 385
+Treap: 499
+Deletion time (microseconds):
+AVL: 431
+Treap: 214
+Search time (microseconds):
+AVL: 121
+Treap: 148
+Average depths:
+AVL: 14.4592
+Treap: 19.9293
+
+Repeat 43:
+Max depths after initial filling:
+AVL: 18
+Treap: 36
+Insertion time (microseconds):
+AVL: 367
+Treap: 595
+Deletion time (microseconds):
+AVL: 870
+Treap: 537
+Search time (microseconds):
+AVL: 168
+Treap: 181
+Average depths:
+AVL: 14.4014
+Treap: 19.1689
+
+Repeat 44:
+Max depths after initial filling:
+AVL: 18
+Treap: 38
+Insertion time (microseconds):
+AVL: 366
+Treap: 558
+Deletion time (microseconds):
+AVL: 604
+Treap: 434
+Search time (microseconds):
+AVL: 155
+Treap: 196
+Average depths:
+AVL: 14.3971
+Treap: 20.1083
+
+Repeat 45:
+Max depths after initial filling:
+AVL: 18
+Treap: 37
+Insertion time (microseconds):
+AVL: 368
+Treap: 418
+Deletion time (microseconds):
+AVL: 472
+Treap: 231
+Search time (microseconds):
+AVL: 123
+Treap: 153
+Average depths:
+AVL: 14.4123
+Treap: 20.0299
+
+Repeat 46:
+Max depths after initial filling:
+AVL: 18
+Treap: 33
+Insertion time (microseconds):
+AVL: 355
+Treap: 482
+Deletion time (microseconds):
+AVL: 462
+Treap: 203
+Search time (microseconds):
+AVL: 123
+Treap: 149
+Average depths:
+AVL: 14.4352
+Treap: 18.3233
+
+Repeat 47:
+Max depths after initial filling:
+AVL: 18
+Treap: 36
+Insertion time (microseconds):
+AVL: 399
+Treap: 507
+Deletion time (microseconds):
+AVL: 505
+Treap: 240
+Search time (microseconds):
+AVL: 136
+Treap: 147
+Average depths:
+AVL: 14.4017
+Treap: 18.9073
+
+Repeat 48:
+Max depths after initial filling:
+AVL: 18
+Treap: 35
+Insertion time (microseconds):
+AVL: 339
+Treap: 461
+Deletion time (microseconds):
+AVL: 1498
+Treap: 598
+Search time (microseconds):
+AVL: 300
+Treap: 219
+Average depths:
+AVL: 14.434
+Treap: 19.5609
+
+Repeat 49:
+Max depths after initial filling:
+AVL: 18
+Treap: 39
+Insertion time (microseconds):
+AVL: 410
+Treap: 529
+Deletion time (microseconds):
+AVL: 620
+Treap: 347
+Search time (microseconds):
+AVL: 150
+Treap: 186
+Average depths:
+AVL: 14.4583
+Treap: 20.2209
+
+Repeat 50:
+Max depths after initial filling:
+AVL: 18
+Treap: 35
+Insertion time (microseconds):
+AVL: 391
+Treap: 466
+Deletion time (microseconds):
+AVL: 476
+Treap: 215
+Search time (microseconds):
+AVL: 121
+Treap: 144
+Average depths:
+AVL: 14.49
+Treap: 19.0603
+
+Testing for N = 65536 elements
+====================================
+
+Repeat 1:
+Max depths after initial filling:
+AVL: 19
+Treap: 38
+Insertion time (microseconds):
+AVL: 404
+Treap: 480
+Deletion time (microseconds):
+AVL: 858
+Treap: 459
+Search time (microseconds):
+AVL: 293
+Treap: 302
+Average depths:
+AVL: 15.4215
+Treap: 20.8709
+
+Repeat 2:
+Max depths after initial filling:
+AVL: 19
+Treap: 42
+Insertion time (microseconds):
+AVL: 379
+Treap: 470
+Deletion time (microseconds):
+AVL: 894
+Treap: 296
+Search time (microseconds):
+AVL: 195
+Treap: 187
+Average depths:
+AVL: 15.4138
+Treap: 22.0673
+
+Repeat 3:
+Max depths after initial filling:
+AVL: 19
+Treap: 40
+Insertion time (microseconds):
+AVL: 394
+Treap: 583
+Deletion time (microseconds):
+AVL: 1041
+Treap: 492
+Search time (microseconds):
+AVL: 198
+Treap: 229
+Average depths:
+AVL: 15.4482
+Treap: 20.5348
+
+Repeat 4:
+Max depths after initial filling:
+AVL: 19
+Treap: 37
+Insertion time (microseconds):
+AVL: 381
+Treap: 629
+Deletion time (microseconds):
+AVL: 1180
+Treap: 735
+Search time (microseconds):
+AVL: 232
+Treap: 292
+Average depths:
+AVL: 15.4359
+Treap: 20.706
+
+Repeat 5:
+Max depths after initial filling:
+AVL: 19
+Treap: 38
+Insertion time (microseconds):
+AVL: 522
+Treap: 489
+Deletion time (microseconds):
+AVL: 1511
+Treap: 899
+Search time (microseconds):
+AVL: 431
+Treap: 522
+Average depths:
+AVL: 15.4182
+Treap: 20.7885
+
+Repeat 6:
+Max depths after initial filling:
+AVL: 19
+Treap: 39
+Insertion time (microseconds):
+AVL: 421
+Treap: 565
+Deletion time (microseconds):
+AVL: 862
+Treap: 270
+Search time (microseconds):
+AVL: 196
+Treap: 185
+Average depths:
+AVL: 15.4605
+Treap: 20.8682
+
+Repeat 7:
+Max depths after initial filling:
+AVL: 19
+Treap: 38
+Insertion time (microseconds):
+AVL: 643
+Treap: 820
+Deletion time (microseconds):
+AVL: 1394
+Treap: 632
+Search time (microseconds):
+AVL: 277
+Treap: 323
+Average depths:
+AVL: 15.4255
+Treap: 19.9933
+
+Repeat 8:
+Max depths after initial filling:
+AVL: 19
+Treap: 40
+Insertion time (microseconds):
+AVL: 402
+Treap: 547
+Deletion time (microseconds):
+AVL: 961
+Treap: 335
+Search time (microseconds):
+AVL: 200
+Treap: 217
+Average depths:
+AVL: 15.4478
+Treap: 21.3799
+
+Repeat 9:
+Max depths after initial filling:
+AVL: 19
+Treap: 41
+Insertion time (microseconds):
+AVL: 433
+Treap: 493
+Deletion time (microseconds):
+AVL: 1105
+Treap: 421
+Search time (microseconds):
+AVL: 208
+Treap: 227
+Average depths:
+AVL: 15.4263
+Treap: 21.6834
+
+Repeat 10:
+Max depths after initial filling:
+AVL: 19
+Treap: 42
+Insertion time (microseconds):
+AVL: 406
+Treap: 500
+Deletion time (microseconds):
+AVL: 910
+Treap: 286
+Search time (microseconds):
+AVL: 195
+Treap: 193
+Average depths:
+AVL: 15.4509
+Treap: 20.9833
+
+Repeat 11:
+Max depths after initial filling:
+AVL: 19
+Treap: 41
+Insertion time (microseconds):
+AVL: 448
+Treap: 468
+Deletion time (microseconds):
+AVL: 1095
+Treap: 740
+Search time (microseconds):
+AVL: 317
+Treap: 361
+Average depths:
+AVL: 15.4528
+Treap: 20.7622
+
+Repeat 12:
+Max depths after initial filling:
+AVL: 19
+Treap: 39
+Insertion time (microseconds):
+AVL: 417
+Treap: 496
+Deletion time (microseconds):
+AVL: 1092
+Treap: 606
+Search time (microseconds):
+AVL: 198
+Treap: 257
+Average depths:
+AVL: 15.4242
+Treap: 20.5757
+
+Repeat 13:
+Max depths after initial filling:
+AVL: 19
+Treap: 41
+Insertion time (microseconds):
+AVL: 395
+Treap: 498
+Deletion time (microseconds):
+AVL: 1834
+Treap: 871
+Search time (microseconds):
+AVL: 358
+Treap: 333
+Average depths:
+AVL: 15.4313
+Treap: 20.957
+
+Repeat 14:
+Max depths after initial filling:
+AVL: 19
+Treap: 38
+Insertion time (microseconds):
+AVL: 380
+Treap: 490
+Deletion time (microseconds):
+AVL: 882
+Treap: 372
+Search time (microseconds):
+AVL: 197
+Treap: 210
+Average depths:
+AVL: 15.4352
+Treap: 20.1832
+
+Repeat 15:
+Max depths after initial filling:
+AVL: 19
+Treap: 42
+Insertion time (microseconds):
+AVL: 384
+Treap: 519
+Deletion time (microseconds):
+AVL: 1052
+Treap: 396
+Search time (microseconds):
+AVL: 206
+Treap: 230
+Average depths:
+AVL: 15.4899
+Treap: 21.1407
+
+Repeat 16:
+Max depths after initial filling:
+AVL: 19
+Treap: 39
+Insertion time (microseconds):
+AVL: 394
+Treap: 561
+Deletion time (microseconds):
+AVL: 915
+Treap: 345
+Search time (microseconds):
+AVL: 209
+Treap: 208
+Average depths:
+AVL: 15.4484
+Treap: 20.525
+
+Repeat 17:
+Max depths after initial filling:
+AVL: 20
+Treap: 39
+Insertion time (microseconds):
+AVL: 382
+Treap: 495
+Deletion time (microseconds):
+AVL: 1074
+Treap: 496
+Search time (microseconds):
+AVL: 222
+Treap: 373
+Average depths:
+AVL: 15.4274
+Treap: 20.8464
+
+Repeat 18:
+Max depths after initial filling:
+AVL: 19
+Treap: 37
+Insertion time (microseconds):
+AVL: 426
+Treap: 453
+Deletion time (microseconds):
+AVL: 1102
+Treap: 390
+Search time (microseconds):
+AVL: 208
+Treap: 214
+Average depths:
+AVL: 15.4405
+Treap: 20.8676
+
+Repeat 19:
+Max depths after initial filling:
+AVL: 19
+Treap: 41
+Insertion time (microseconds):
+AVL: 438
+Treap: 556
+Deletion time (microseconds):
+AVL: 888
+Treap: 310
+Search time (microseconds):
+AVL: 200
+Treap: 196
+Average depths:
+AVL: 15.4155
+Treap: 21.0796
+
+Repeat 20:
+Max depths after initial filling:
+AVL: 19
+Treap: 43
+Insertion time (microseconds):
+AVL: 413
+Treap: 510
+Deletion time (microseconds):
+AVL: 972
+Treap: 509
+Search time (microseconds):
+AVL: 232
+Treap: 255
+Average depths:
+AVL: 15.4098
+Treap: 21.7312
+
+Repeat 21:
+Max depths after initial filling:
+AVL: 19
+Treap: 38
+Insertion time (microseconds):
+AVL: 442
+Treap: 481
+Deletion time (microseconds):
+AVL: 902
+Treap: 321
+Search time (microseconds):
+AVL: 195
+Treap: 191
+Average depths:
+AVL: 15.4957
+Treap: 20.1772
+
+Repeat 22:
+Max depths after initial filling:
+AVL: 19
+Treap: 42
+Insertion time (microseconds):
+AVL: 426
+Treap: 419
+Deletion time (microseconds):
+AVL: 927
+Treap: 353
+Search time (microseconds):
+AVL: 207
+Treap: 208
+Average depths:
+AVL: 15.4185
+Treap: 21.8422
+
+Repeat 23:
+Max depths after initial filling:
+AVL: 19
+Treap: 37
+Insertion time (microseconds):
+AVL: 572
+Treap: 641
+Deletion time (microseconds):
+AVL: 1535
+Treap: 912
+Search time (microseconds):
+AVL: 406
+Treap: 405
+Average depths:
+AVL: 15.4194
+Treap: 20.1007
+
+Repeat 24:
+Max depths after initial filling:
+AVL: 19
+Treap: 39
+Insertion time (microseconds):
+AVL: 398
+Treap: 464
+Deletion time (microseconds):
+AVL: 1138
+Treap: 754
+Search time (microseconds):
+AVL: 243
+Treap: 271
+Average depths:
+AVL: 15.5318
+Treap: 20.6972
+
+Repeat 25:
+Max depths after initial filling:
+AVL: 19
+Treap: 44
+Insertion time (microseconds):
+AVL: 365
+Treap: 569
+Deletion time (microseconds):
+AVL: 1106
+Treap: 597
+Search time (microseconds):
+AVL: 259
+Treap: 305
+Average depths:
+AVL: 15.4353
+Treap: 21.6244
+
+Repeat 26:
+Max depths after initial filling:
+AVL: 19
+Treap: 38
+Insertion time (microseconds):
+AVL: 540
+Treap: 446
+Deletion time (microseconds):
+AVL: 1126
+Treap: 814
+Search time (microseconds):
+AVL: 285
+Treap: 303
+Average depths:
+AVL: 15.4616
+Treap: 20.838
+
+Repeat 27:
+Max depths after initial filling:
+AVL: 19
+Treap: 37
+Insertion time (microseconds):
+AVL: 352
+Treap: 545
+Deletion time (microseconds):
+AVL: 866
+Treap: 331
+Search time (microseconds):
+AVL: 194
+Treap: 214
+Average depths:
+AVL: 15.4843
+Treap: 20.0453
+
+Repeat 28:
+Max depths after initial filling:
+AVL: 19
+Treap: 35
+Insertion time (microseconds):
+AVL: 359
+Treap: 593
+Deletion time (microseconds):
+AVL: 858
+Treap: 278
+Search time (microseconds):
+AVL: 186
+Treap: 182
+Average depths:
+AVL: 15.3933
+Treap: 19.933
+
+Repeat 29:
+Max depths after initial filling:
+AVL: 19
+Treap: 42
+Insertion time (microseconds):
+AVL: 482
+Treap: 519
+Deletion time (microseconds):
+AVL: 1143
+Treap: 787
+Search time (microseconds):
+AVL: 249
+Treap: 288
+Average depths:
+AVL: 15.4151
+Treap: 20.8024
+
+Repeat 30:
+Max depths after initial filling:
+AVL: 20
+Treap: 41
+Insertion time (microseconds):
+AVL: 419
+Treap: 495
+Deletion time (microseconds):
+AVL: 1081
+Treap: 454
+Search time (microseconds):
+AVL: 284
+Treap: 282
+Average depths:
+AVL: 15.461
+Treap: 21.1519
+
+Repeat 31:
+Max depths after initial filling:
+AVL: 19
+Treap: 39
+Insertion time (microseconds):
+AVL: 405
+Treap: 459
+Deletion time (microseconds):
+AVL: 844
+Treap: 271
+Search time (microseconds):
+AVL: 192
+Treap: 178
+Average depths:
+AVL: 15.4424
+Treap: 21.5176
+
+Repeat 32:
+Max depths after initial filling:
+AVL: 19
+Treap: 41
+Insertion time (microseconds):
+AVL: 407
+Treap: 628
+Deletion time (microseconds):
+AVL: 1098
+Treap: 729
+Search time (microseconds):
+AVL: 225
+Treap: 267
+Average depths:
+AVL: 15.3876
+Treap: 21.1537
+
+Repeat 33:
+Max depths after initial filling:
+AVL: 19
+Treap: 42
+Insertion time (microseconds):
+AVL: 564
+Treap: 830
+Deletion time (microseconds):
+AVL: 1378
+Treap: 800
+Search time (microseconds):
+AVL: 289
+Treap: 349
+Average depths:
+AVL: 15.4589
+Treap: 20.7507
+
+Repeat 34:
+Max depths after initial filling:
+AVL: 19
+Treap: 38
+Insertion time (microseconds):
+AVL: 933
+Treap: 1688
+Deletion time (microseconds):
+AVL: 1434
+Treap: 969
+Search time (microseconds):
+AVL: 574
+Treap: 1240
+Average depths:
+AVL: 15.4239
+Treap: 20.1736
+
+Repeat 35:
+Max depths after initial filling:
+AVL: 19
+Treap: 39
+Insertion time (microseconds):
+AVL: 653
+Treap: 699
+Deletion time (microseconds):
+AVL: 1539
+Treap: 853
+Search time (microseconds):
+AVL: 303
+Treap: 350
+Average depths:
+AVL: 15.4579
+Treap: 20.9312
+
+Repeat 36:
+Max depths after initial filling:
+AVL: 19
+Treap: 37
+Insertion time (microseconds):
+AVL: 628
+Treap: 780
+Deletion time (microseconds):
+AVL: 1598
+Treap: 881
+Search time (microseconds):
+AVL: 416
+Treap: 386
+Average depths:
+AVL: 15.4198
+Treap: 19.6801
+
+Repeat 37:
+Max depths after initial filling:
+AVL: 19
+Treap: 37
+Insertion time (microseconds):
+AVL: 395
+Treap: 545
+Deletion time (microseconds):
+AVL: 1004
+Treap: 833
+Search time (microseconds):
+AVL: 564
+Treap: 550
+Average depths:
+AVL: 15.4189
+Treap: 20.3041
+
+Repeat 38:
+Max depths after initial filling:
+AVL: 19
+Treap: 42
+Insertion time (microseconds):
+AVL: 369
+Treap: 478
+Deletion time (microseconds):
+AVL: 1095
+Treap: 1071
+Search time (microseconds):
+AVL: 506
+Treap: 605
+Average depths:
+AVL: 15.4053
+Treap: 21.0393
+
+Repeat 39:
+Max depths after initial filling:
+AVL: 19
+Treap: 39
+Insertion time (microseconds):
+AVL: 773
+Treap: 771
+Deletion time (microseconds):
+AVL: 1899
+Treap: 1144
+Search time (microseconds):
+AVL: 581
+Treap: 723
+Average depths:
+AVL: 15.4034
+Treap: 20.9323
+
+Repeat 40:
+Max depths after initial filling:
+AVL: 19
+Treap: 42
+Insertion time (microseconds):
+AVL: 427
+Treap: 639
+Deletion time (microseconds):
+AVL: 1196
+Treap: 746
+Search time (microseconds):
+AVL: 369
+Treap: 337
+Average depths:
+AVL: 15.4439
+Treap: 20.7422
+
+Repeat 41:
+Max depths after initial filling:
+AVL: 19
+Treap: 36
+Insertion time (microseconds):
+AVL: 438
+Treap: 551
+Deletion time (microseconds):
+AVL: 1169
+Treap: 1002
+Search time (microseconds):
+AVL: 432
+Treap: 970
+Average depths:
+AVL: 15.454
+Treap: 20.2641
+
+Repeat 42:
+Max depths after initial filling:
+AVL: 19
+Treap: 37
+Insertion time (microseconds):
+AVL: 640
+Treap: 656
+Deletion time (microseconds):
+AVL: 1229
+Treap: 808
+Search time (microseconds):
+AVL: 376
+Treap: 439
+Average depths:
+AVL: 15.4167
+Treap: 20.3733
+
+Repeat 43:
+Max depths after initial filling:
+AVL: 19
+Treap: 37
+Insertion time (microseconds):
+AVL: 531
+Treap: 650
+Deletion time (microseconds):
+AVL: 1046
+Treap: 551
+Search time (microseconds):
+AVL: 224
+Treap: 255
+Average depths:
+AVL: 15.4744
+Treap: 21.3617
+
+Repeat 44:
+Max depths after initial filling:
+AVL: 19
+Treap: 39
+Insertion time (microseconds):
+AVL: 507
+Treap: 535
+Deletion time (microseconds):
+AVL: 1271
+Treap: 905
+Search time (microseconds):
+AVL: 329
+Treap: 308
+Average depths:
+AVL: 15.4421
+Treap: 21.8105
+
+Repeat 45:
+Max depths after initial filling:
+AVL: 19
+Treap: 38
+Insertion time (microseconds):
+AVL: 512
+Treap: 491
+Deletion time (microseconds):
+AVL: 1287
+Treap: 1139
+Search time (microseconds):
+AVL: 395
+Treap: 509
+Average depths:
+AVL: 15.4411
+Treap: 20.1902
+
+Repeat 46:
+Max depths after initial filling:
+AVL: 19
+Treap: 41
+Insertion time (microseconds):
+AVL: 375
+Treap: 443
+Deletion time (microseconds):
+AVL: 953
+Treap: 660
+Search time (microseconds):
+AVL: 359
+Treap: 330
+Average depths:
+AVL: 15.4325
+Treap: 21.2221
+
+Repeat 47:
+Max depths after initial filling:
+AVL: 19
+Treap: 38
+Insertion time (microseconds):
+AVL: 350
+Treap: 528
+Deletion time (microseconds):
+AVL: 836
+Treap: 283
+Search time (microseconds):
+AVL: 189
+Treap: 190
+Average depths:
+AVL: 15.4111
+Treap: 20.2316
+
+Repeat 48:
+Max depths after initial filling:
+AVL: 19
+Treap: 38
+Insertion time (microseconds):
+AVL: 455
+Treap: 613
+Deletion time (microseconds):
+AVL: 1104
+Treap: 777
+Search time (microseconds):
+AVL: 244
+Treap: 293
+Average depths:
+AVL: 15.4118
+Treap: 21.2813
+
+Repeat 49:
+Max depths after initial filling:
+AVL: 19
+Treap: 39
+Insertion time (microseconds):
+AVL: 373
+Treap: 569
+Deletion time (microseconds):
+AVL: 921
+Treap: 323
+Search time (microseconds):
+AVL: 202
+Treap: 196
+Average depths:
+AVL: 15.4508
+Treap: 20.5668
+
+Repeat 50:
+Max depths after initial filling:
+AVL: 19
+Treap: 37
+Insertion time (microseconds):
+AVL: 435
+Treap: 554
+Deletion time (microseconds):
+AVL: 1249
+Treap: 742
+Search time (microseconds):
+AVL: 236
+Treap: 283
+Average depths:
+AVL: 15.4496
+Treap: 20.3557
+
+Testing for N = 131072 elements
+====================================
+
+Repeat 1:
+Max depths after initial filling:
+AVL: 20
+Treap: 46
+Insertion time (microseconds):
+AVL: 454
+Treap: 472
+Deletion time (microseconds):
+AVL: 1375
+Treap: 916
+Search time (microseconds):
+AVL: 289
+Treap: 375
+Average depths:
+AVL: 16.4238
+Treap: 23.019
+
+Repeat 2:
+Max depths after initial filling:
+AVL: 20
+Treap: 39
+Insertion time (microseconds):
+AVL: 397
+Treap: 530
+Deletion time (microseconds):
+AVL: 1445
+Treap: 971
+Search time (microseconds):
+AVL: 307
+Treap: 385
+Average depths:
+AVL: 16.4469
+Treap: 21.9596
+
+Repeat 3:
+Max depths after initial filling:
+AVL: 20
+Treap: 41
+Insertion time (microseconds):
+AVL: 736
+Treap: 808
+Deletion time (microseconds):
+AVL: 2320
+Treap: 1648
+Search time (microseconds):
+AVL: 589
+Treap: 752
+Average depths:
+AVL: 16.4666
+Treap: 22.2451
+
+Repeat 4:
+Max depths after initial filling:
+AVL: 21
+Treap: 41
+Insertion time (microseconds):
+AVL: 391
+Treap: 476
+Deletion time (microseconds):
+AVL: 1515
+Treap: 1434
+Search time (microseconds):
+AVL: 429
+Treap: 518
+Average depths:
+AVL: 16.4569
+Treap: 22.2275
+
+Repeat 5:
+Max depths after initial filling:
+AVL: 20
+Treap: 41
+Insertion time (microseconds):
+AVL: 459
+Treap: 550
+Deletion time (microseconds):
+AVL: 1437
+Treap: 958
+Search time (microseconds):
+AVL: 358
+Treap: 426
+Average depths:
+AVL: 16.4445
+Treap: 21.8144
+
+Repeat 6:
+Max depths after initial filling:
+AVL: 20
+Treap: 40
+Insertion time (microseconds):
+AVL: 373
+Treap: 609
+Deletion time (microseconds):
+AVL: 1494
+Treap: 1025
+Search time (microseconds):
+AVL: 473
+Treap: 1038
+Average depths:
+AVL: 16.4109
+Treap: 21.2861
+
+Repeat 7:
+Max depths after initial filling:
+AVL: 20
+Treap: 43
+Insertion time (microseconds):
+AVL: 452
+Treap: 525
+Deletion time (microseconds):
+AVL: 1450
+Treap: 1025
+Search time (microseconds):
+AVL: 475
+Treap: 452
+Average depths:
+AVL: 16.4387
+Treap: 22.1911
+
+Repeat 8:
+Max depths after initial filling:
+AVL: 20
+Treap: 41
+Insertion time (microseconds):
+AVL: 429
+Treap: 573
+Deletion time (microseconds):
+AVL: 1534
+Treap: 1004
+Search time (microseconds):
+AVL: 370
+Treap: 476
+Average depths:
+AVL: 16.4447
+Treap: 23.0364
+
+Repeat 9:
+Max depths after initial filling:
+AVL: 20
+Treap: 42
+Insertion time (microseconds):
+AVL: 459
+Treap: 548
+Deletion time (microseconds):
+AVL: 1391
+Treap: 815
+Search time (microseconds):
+AVL: 317
+Treap: 388
+Average depths:
+AVL: 16.4629
+Treap: 21.7951
+
+Repeat 10:
+Max depths after initial filling:
+AVL: 20
+Treap: 42
+Insertion time (microseconds):
+AVL: 458
+Treap: 466
+Deletion time (microseconds):
+AVL: 1366
+Treap: 1066
+Search time (microseconds):
+AVL: 406
+Treap: 446
+Average depths:
+AVL: 16.4294
+Treap: 21.972
+
+Repeat 11:
+Max depths after initial filling:
+AVL: 20
+Treap: 46
+Insertion time (microseconds):
+AVL: 478
+Treap: 571
+Deletion time (microseconds):
+AVL: 1370
+Treap: 791
+Search time (microseconds):
+AVL: 324
+Treap: 447
+Average depths:
+AVL: 16.4499
+Treap: 23.0904
+
+Repeat 12:
+Max depths after initial filling:
+AVL: 20
+Treap: 45
+Insertion time (microseconds):
+AVL: 437
+Treap: 528
+Deletion time (microseconds):
+AVL: 1352
+Treap: 901
+Search time (microseconds):
+AVL: 359
+Treap: 407
+Average depths:
+AVL: 16.4337
+Treap: 23.1422
+
+Repeat 13:
+Max depths after initial filling:
+AVL: 20
+Treap: 41
+Insertion time (microseconds):
+AVL: 408
+Treap: 570
+Deletion time (microseconds):
+AVL: 1387
+Treap: 776
+Search time (microseconds):
+AVL: 294
+Treap: 369
+Average depths:
+AVL: 16.4509
+Treap: 22.4248
+
+Repeat 14:
+Max depths after initial filling:
+AVL: 20
+Treap: 44
+Insertion time (microseconds):
+AVL: 428
+Treap: 447
+Deletion time (microseconds):
+AVL: 1368
+Treap: 752
+Search time (microseconds):
+AVL: 290
+Treap: 343
+Average depths:
+AVL: 16.4241
+Treap: 22.4955
+
+Repeat 15:
+Max depths after initial filling:
+AVL: 21
+Treap: 41
+Insertion time (microseconds):
+AVL: 389
+Treap: 563
+Deletion time (microseconds):
+AVL: 1346
+Treap: 747
+Search time (microseconds):
+AVL: 297
+Treap: 368
+Average depths:
+AVL: 16.4862
+Treap: 21.9628
+
+Repeat 16:
+Max depths after initial filling:
+AVL: 21
+Treap: 43
+Insertion time (microseconds):
+AVL: 644
+Treap: 450
+Deletion time (microseconds):
+AVL: 1662
+Treap: 1161
+Search time (microseconds):
+AVL: 545
+Treap: 661
+Average depths:
+AVL: 16.4516
+Treap: 23.716
+
+Repeat 17:
+Max depths after initial filling:
+AVL: 20
+Treap: 42
+Insertion time (microseconds):
+AVL: 389
+Treap: 599
+Deletion time (microseconds):
+AVL: 1557
+Treap: 1089
+Search time (microseconds):
+AVL: 636
+Treap: 902
+Average depths:
+AVL: 16.4129
+Treap: 22.2444
+
+Repeat 18:
+Max depths after initial filling:
+AVL: 20
+Treap: 41
+Insertion time (microseconds):
+AVL: 598
+Treap: 791
+Deletion time (microseconds):
+AVL: 1868
+Treap: 1087
+Search time (microseconds):
+AVL: 468
+Treap: 619
+Average depths:
+AVL: 16.4724
+Treap: 22.2179
+
+Repeat 19:
+Max depths after initial filling:
+AVL: 21
+Treap: 41
+Insertion time (microseconds):
+AVL: 415
+Treap: 490
+Deletion time (microseconds):
+AVL: 1447
+Treap: 1018
+Search time (microseconds):
+AVL: 374
+Treap: 395
+Average depths:
+AVL: 16.5104
+Treap: 21.7098
+
+Repeat 20:
+Max depths after initial filling:
+AVL: 20
+Treap: 41
+Insertion time (microseconds):
+AVL: 406
+Treap: 622
+Deletion time (microseconds):
+AVL: 1368
+Treap: 793
+Search time (microseconds):
+AVL: 289
+Treap: 358
+Average depths:
+AVL: 16.4791
+Treap: 21.9964
+
+Repeat 21:
+Max depths after initial filling:
+AVL: 21
+Treap: 40
+Insertion time (microseconds):
+AVL: 645
+Treap: 864
+Deletion time (microseconds):
+AVL: 2380
+Treap: 1143
+Search time (microseconds):
+AVL: 620
+Treap: 765
+Average depths:
+AVL: 16.5196
+Treap: 20.7599
+
+Repeat 22:
+Max depths after initial filling:
+AVL: 21
+Treap: 42
+Insertion time (microseconds):
+AVL: 465
+Treap: 713
+Deletion time (microseconds):
+AVL: 1416
+Treap: 991
+Search time (microseconds):
+AVL: 370
+Treap: 404
+Average depths:
+AVL: 16.4683
+Treap: 21.8628
+
+Repeat 23:
+Max depths after initial filling:
+AVL: 21
+Treap: 42
+Insertion time (microseconds):
+AVL: 464
+Treap: 501
+Deletion time (microseconds):
+AVL: 1369
+Treap: 1078
+Search time (microseconds):
+AVL: 401
+Treap: 432
+Average depths:
+AVL: 16.4597
+Treap: 22.825
+
+Repeat 24:
+Max depths after initial filling:
+AVL: 21
+Treap: 39
+Insertion time (microseconds):
+AVL: 445
+Treap: 533
+Deletion time (microseconds):
+AVL: 1377
+Treap: 917
+Search time (microseconds):
+AVL: 296
+Treap: 381
+Average depths:
+AVL: 16.4643
+Treap: 20.9002
+
+Repeat 25:
+Max depths after initial filling:
+AVL: 20
+Treap: 41
+Insertion time (microseconds):
+AVL: 480
+Treap: 606
+Deletion time (microseconds):
+AVL: 1403
+Treap: 1286
+Search time (microseconds):
+AVL: 465
+Treap: 525
+Average depths:
+AVL: 16.4488
+Treap: 21.3908
+
+Repeat 26:
+Max depths after initial filling:
+AVL: 20
+Treap: 38
+Insertion time (microseconds):
+AVL: 533
+Treap: 1049
+Deletion time (microseconds):
+AVL: 1422
+Treap: 975
+Search time (microseconds):
+AVL: 322
+Treap: 543
+Average depths:
+AVL: 16.4206
+Treap: 21.1691
+
+Repeat 27:
+Max depths after initial filling:
+AVL: 20
+Treap: 44
+Insertion time (microseconds):
+AVL: 442
+Treap: 613
+Deletion time (microseconds):
+AVL: 1758
+Treap: 970
+Search time (microseconds):
+AVL: 349
+Treap: 455
+Average depths:
+AVL: 16.4505
+Treap: 22.2687
+
+Repeat 28:
+Max depths after initial filling:
+AVL: 21
+Treap: 43
+Insertion time (microseconds):
+AVL: 464
+Treap: 512
+Deletion time (microseconds):
+AVL: 1678
+Treap: 1119
+Search time (microseconds):
+AVL: 605
+Treap: 770
+Average depths:
+AVL: 16.522
+Treap: 23.0036
+
+Repeat 29:
+Max depths after initial filling:
+AVL: 21
+Treap: 42
+Insertion time (microseconds):
+AVL: 880
+Treap: 562
+Deletion time (microseconds):
+AVL: 1693
+Treap: 1049
+Search time (microseconds):
+AVL: 481
+Treap: 531
+Average depths:
+AVL: 16.4527
+Treap: 22.1443
+
+Repeat 30:
+Max depths after initial filling:
+AVL: 20
+Treap: 43
+Insertion time (microseconds):
+AVL: 409
+Treap: 564
+Deletion time (microseconds):
+AVL: 1481
+Treap: 1003
+Search time (microseconds):
+AVL: 340
+Treap: 410
+Average depths:
+AVL: 16.4548
+Treap: 22.3618
+
+Repeat 31:
+Max depths after initial filling:
+AVL: 20
+Treap: 45
+Insertion time (microseconds):
+AVL: 464
+Treap: 508
+Deletion time (microseconds):
+AVL: 1628
+Treap: 1015
+Search time (microseconds):
+AVL: 459
+Treap: 563
+Average depths:
+AVL: 16.4342
+Treap: 22.0417
+
+Repeat 32:
+Max depths after initial filling:
+AVL: 20
+Treap: 39
+Insertion time (microseconds):
+AVL: 416
+Treap: 626
+Deletion time (microseconds):
+AVL: 1364
+Treap: 849
+Search time (microseconds):
+AVL: 312
+Treap: 364
+Average depths:
+AVL: 16.4163
+Treap: 21.0838
+
+Repeat 33:
+Max depths after initial filling:
+AVL: 20
+Treap: 40
+Insertion time (microseconds):
+AVL: 527
+Treap: 588
+Deletion time (microseconds):
+AVL: 2072
+Treap: 1201
+Search time (microseconds):
+AVL: 464
+Treap: 479
+Average depths:
+AVL: 16.4352
+Treap: 21.7505
+
+Repeat 34:
+Max depths after initial filling:
+AVL: 21
+Treap: 46
+Insertion time (microseconds):
+AVL: 410
+Treap: 521
+Deletion time (microseconds):
+AVL: 1351
+Treap: 888
+Search time (microseconds):
+AVL: 290
+Treap: 379
+Average depths:
+AVL: 16.4774
+Treap: 22.5306
+
+Repeat 35:
+Max depths after initial filling:
+AVL: 21
+Treap: 43
+Insertion time (microseconds):
+AVL: 471
+Treap: 487
+Deletion time (microseconds):
+AVL: 1480
+Treap: 1098
+Search time (microseconds):
+AVL: 477
+Treap: 557
+Average depths:
+AVL: 16.5608
+Treap: 22.4692
+
+Repeat 36:
+Max depths after initial filling:
+AVL: 20
+Treap: 42
+Insertion time (microseconds):
+AVL: 403
+Treap: 584
+Deletion time (microseconds):
+AVL: 1335
+Treap: 952
+Search time (microseconds):
+AVL: 489
+Treap: 595
+Average depths:
+AVL: 16.4424
+Treap: 21.6592
+
+Repeat 37:
+Max depths after initial filling:
+AVL: 20
+Treap: 41
+Insertion time (microseconds):
+AVL: 419
+Treap: 577
+Deletion time (microseconds):
+AVL: 1409
+Treap: 958
+Search time (microseconds):
+AVL: 327
+Treap: 403
+Average depths:
+AVL: 16.4353
+Treap: 21.3683
+
+Repeat 38:
+Max depths after initial filling:
+AVL: 21
+Treap: 43
+Insertion time (microseconds):
+AVL: 426
+Treap: 503
+Deletion time (microseconds):
+AVL: 1384
+Treap: 958
+Search time (microseconds):
+AVL: 327
+Treap: 388
+Average depths:
+AVL: 16.4777
+Treap: 22.2518
+
+Repeat 39:
+Max depths after initial filling:
+AVL: 21
+Treap: 44
+Insertion time (microseconds):
+AVL: 479
+Treap: 423
+Deletion time (microseconds):
+AVL: 1394
+Treap: 872
+Search time (microseconds):
+AVL: 286
+Treap: 401
+Average depths:
+AVL: 16.4354
+Treap: 23.541
+
+Repeat 40:
+Max depths after initial filling:
+AVL: 20
+Treap: 40
+Insertion time (microseconds):
+AVL: 410
+Treap: 505
+Deletion time (microseconds):
+AVL: 1355
+Treap: 746
+Search time (microseconds):
+AVL: 296
+Treap: 353
+Average depths:
+AVL: 16.4176
+Treap: 21.8279
+
+Repeat 41:
+Max depths after initial filling:
+AVL: 20
+Treap: 40
+Insertion time (microseconds):
+AVL: 398
+Treap: 707
+Deletion time (microseconds):
+AVL: 1330
+Treap: 934
+Search time (microseconds):
+AVL: 378
+Treap: 462
+Average depths:
+AVL: 16.4472
+Treap: 22.2152
+
+Repeat 42:
+Max depths after initial filling:
+AVL: 21
+Treap: 41
+Insertion time (microseconds):
+AVL: 449
+Treap: 580
+Deletion time (microseconds):
+AVL: 1505
+Treap: 1067
+Search time (microseconds):
+AVL: 295
+Treap: 380
+Average depths:
+AVL: 16.4879
+Treap: 21.4147
+
+Repeat 43:
+Max depths after initial filling:
+AVL: 20
+Treap: 42
+Insertion time (microseconds):
+AVL: 393
+Treap: 567
+Deletion time (microseconds):
+AVL: 1611
+Treap: 1040
+Search time (microseconds):
+AVL: 437
+Treap: 547
+Average depths:
+AVL: 16.438
+Treap: 21.9486
+
+Repeat 44:
+Max depths after initial filling:
+AVL: 20
+Treap: 41
+Insertion time (microseconds):
+AVL: 412
+Treap: 691
+Deletion time (microseconds):
+AVL: 1430
+Treap: 1093
+Search time (microseconds):
+AVL: 384
+Treap: 452
+Average depths:
+AVL: 16.49
+Treap: 21.0801
+
+Repeat 45:
+Max depths after initial filling:
+AVL: 20
+Treap: 42
+Insertion time (microseconds):
+AVL: 439
+Treap: 562
+Deletion time (microseconds):
+AVL: 1555
+Treap: 1251
+Search time (microseconds):
+AVL: 584
+Treap: 797
+Average depths:
+AVL: 16.4759
+Treap: 21.5723
+
+Repeat 46:
+Max depths after initial filling:
+AVL: 20
+Treap: 41
+Insertion time (microseconds):
+AVL: 569
+Treap: 904
+Deletion time (microseconds):
+AVL: 1993
+Treap: 1280
+Search time (microseconds):
+AVL: 616
+Treap: 807
+Average depths:
+AVL: 16.4722
+Treap: 22.1417
+
+Repeat 47:
+Max depths after initial filling:
+AVL: 21
+Treap: 47
+Insertion time (microseconds):
+AVL: 635
+Treap: 803
+Deletion time (microseconds):
+AVL: 2847
+Treap: 1536
+Search time (microseconds):
+AVL: 681
+Treap: 805
+Average depths:
+AVL: 16.4601
+Treap: 21.4057
+
+Repeat 48:
+Max depths after initial filling:
+AVL: 21
+Treap: 44
+Insertion time (microseconds):
+AVL: 698
+Treap: 817
+Deletion time (microseconds):
+AVL: 2286
+Treap: 1465
+Search time (microseconds):
+AVL: 639
+Treap: 730
+Average depths:
+AVL: 16.4783
+Treap: 22.2459
+
+Repeat 49:
+Max depths after initial filling:
+AVL: 20
+Treap: 41
+Insertion time (microseconds):
+AVL: 387
+Treap: 646
+Deletion time (microseconds):
+AVL: 1380
+Treap: 1047
+Search time (microseconds):
+AVL: 355
+Treap: 409
+Average depths:
+AVL: 16.4241
+Treap: 21.2103
+
+Repeat 50:
+Max depths after initial filling:
+AVL: 20
+Treap: 39
+Insertion time (microseconds):
+AVL: 655
+Treap: 820
+Deletion time (microseconds):
+AVL: 2130
+Treap: 1384
+Search time (microseconds):
+AVL: 643
+Treap: 642
+Average depths:
+AVL: 16.4366
+Treap: 21.502
+
+Testing for N = 262144 elements
+====================================
+
+Repeat 1:
+Max depths after initial filling:
+AVL: 22
+Treap: 42
+Insertion time (microseconds):
+AVL: 726
+Treap: 859
+Deletion time (microseconds):
+AVL: 4074
+Treap: 1962
+Search time (microseconds):
+AVL: 954
+Treap: 1415
+Average depths:
+AVL: 17.4763
+Treap: 22.9726
+
+Repeat 2:
+Max depths after initial filling:
+AVL: 22
+Treap: 44
+Insertion time (microseconds):
+AVL: 488
+Treap: 708
+Deletion time (microseconds):
+AVL: 1783
+Treap: 1467
+Search time (microseconds):
+AVL: 581
+Treap: 617
+Average depths:
+AVL: 17.4805
+Treap: 23.5927
+
+Repeat 3:
+Max depths after initial filling:
+AVL: 22
+Treap: 42
+Insertion time (microseconds):
+AVL: 410
+Treap: 555
+Deletion time (microseconds):
+AVL: 1633
+Treap: 1166
+Search time (microseconds):
+AVL: 448
+Treap: 601
+Average depths:
+AVL: 17.4728
+Treap: 22.7175
+
+Repeat 4:
+Max depths after initial filling:
+AVL: 22
+Treap: 46
+Insertion time (microseconds):
+AVL: 474
+Treap: 575
+Deletion time (microseconds):
+AVL: 1648
+Treap: 1212
+Search time (microseconds):
+AVL: 393
+Treap: 525
+Average depths:
+AVL: 17.4751
+Treap: 22.6543
+
+Repeat 5:
+Max depths after initial filling:
+AVL: 22
+Treap: 44
+Insertion time (microseconds):
+AVL: 461
+Treap: 551
+Deletion time (microseconds):
+AVL: 1956
+Treap: 1347
+Search time (microseconds):
+AVL: 463
+Treap: 558
+Average depths:
+AVL: 17.5069
+Treap: 23.917
+
+Repeat 6:
+Max depths after initial filling:
+AVL: 22
+Treap: 45
+Insertion time (microseconds):
+AVL: 477
+Treap: 540
+Deletion time (microseconds):
+AVL: 1635
+Treap: 1091
+Search time (microseconds):
+AVL: 360
+Treap: 502
+Average depths:
+AVL: 17.4702
+Treap: 23.4265
+
+Repeat 7:
+Max depths after initial filling:
+AVL: 21
+Treap: 49
+Insertion time (microseconds):
+AVL: 531
+Treap: 640
+Deletion time (microseconds):
+AVL: 2492
+Treap: 1657
+Search time (microseconds):
+AVL: 593
+Treap: 1030
+Average depths:
+AVL: 17.4733
+Treap: 22.9468
+
+Repeat 8:
+Max depths after initial filling:
+AVL: 22
+Treap: 42
+Insertion time (microseconds):
+AVL: 414
+Treap: 528
+Deletion time (microseconds):
+AVL: 1659
+Treap: 1126
+Search time (microseconds):
+AVL: 391
+Treap: 509
+Average depths:
+AVL: 17.4889
+Treap: 23.7224
+
+Repeat 9:
+Max depths after initial filling:
+AVL: 21
+Treap: 41
+Insertion time (microseconds):
+AVL: 568
+Treap: 529
+Deletion time (microseconds):
+AVL: 1681
+Treap: 1198
+Search time (microseconds):
+AVL: 412
+Treap: 491
+Average depths:
+AVL: 17.4577
+Treap: 23.0832
+
+Repeat 10:
+Max depths after initial filling:
+AVL: 21
+Treap: 45
+Insertion time (microseconds):
+AVL: 460
+Treap: 435
+Deletion time (microseconds):
+AVL: 1649
+Treap: 1132
+Search time (microseconds):
+AVL: 373
+Treap: 524
+Average depths:
+AVL: 17.4555
+Treap: 23.9126
+
+Repeat 11:
+Max depths after initial filling:
+AVL: 21
+Treap: 45
+Insertion time (microseconds):
+AVL: 524
+Treap: 583
+Deletion time (microseconds):
+AVL: 1673
+Treap: 1182
+Search time (microseconds):
+AVL: 415
+Treap: 527
+Average depths:
+AVL: 17.4139
+Treap: 23.3477
+
+Repeat 12:
+Max depths after initial filling:
+AVL: 22
+Treap: 48
+Insertion time (microseconds):
+AVL: 417
+Treap: 496
+Deletion time (microseconds):
+AVL: 1677
+Treap: 1180
+Search time (microseconds):
+AVL: 417
+Treap: 543
+Average depths:
+AVL: 17.4754
+Treap: 23.4601
+
+Repeat 13:
+Max depths after initial filling:
+AVL: 22
+Treap: 47
+Insertion time (microseconds):
+AVL: 432
+Treap: 561
+Deletion time (microseconds):
+AVL: 1660
+Treap: 1165
+Search time (microseconds):
+AVL: 380
+Treap: 508
+Average depths:
+AVL: 17.449
+Treap: 23.5147
+
+Repeat 14:
+Max depths after initial filling:
+AVL: 22
+Treap: 43
+Insertion time (microseconds):
+AVL: 476
+Treap: 591
+Deletion time (microseconds):
+AVL: 1656
+Treap: 1148
+Search time (microseconds):
+AVL: 387
+Treap: 520
+Average depths:
+AVL: 17.4698
+Treap: 23.5688
+
+Repeat 15:
+Max depths after initial filling:
+AVL: 22
+Treap: 42
+Insertion time (microseconds):
+AVL: 502
+Treap: 692
+Deletion time (microseconds):
+AVL: 1864
+Treap: 1522
+Search time (microseconds):
+AVL: 794
+Treap: 627
+Average depths:
+AVL: 17.4649
+Treap: 22.9269
+
+Repeat 16:
+Max depths after initial filling:
+AVL: 22
+Treap: 45
+Insertion time (microseconds):
+AVL: 460
+Treap: 562
+Deletion time (microseconds):
+AVL: 1666
+Treap: 1168
+Search time (microseconds):
+AVL: 404
+Treap: 535
+Average depths:
+AVL: 17.5011
+Treap: 23.62
+
+Repeat 17:
+Max depths after initial filling:
+AVL: 21
+Treap: 46
+Insertion time (microseconds):
+AVL: 423
+Treap: 633
+Deletion time (microseconds):
+AVL: 1625
+Treap: 1134
+Search time (microseconds):
+AVL: 410
+Treap: 531
+Average depths:
+AVL: 17.4485
+Treap: 24.14
+
+Repeat 18:
+Max depths after initial filling:
+AVL: 22
+Treap: 47
+Insertion time (microseconds):
+AVL: 490
+Treap: 550
+Deletion time (microseconds):
+AVL: 1831
+Treap: 1366
+Search time (microseconds):
+AVL: 415
+Treap: 538
+Average depths:
+AVL: 17.4404
+Treap: 24.9463
+
+Repeat 19:
+Max depths after initial filling:
+AVL: 21
+Treap: 44
+Insertion time (microseconds):
+AVL: 640
+Treap: 870
+Deletion time (microseconds):
+AVL: 2084
+Treap: 1684
+Search time (microseconds):
+AVL: 716
+Treap: 939
+Average depths:
+AVL: 17.4296
+Treap: 23.1806
+
+Repeat 20:
+Max depths after initial filling:
+AVL: 21
+Treap: 47
+Insertion time (microseconds):
+AVL: 470
+Treap: 699
+Deletion time (microseconds):
+AVL: 2068
+Treap: 1287
+Search time (microseconds):
+AVL: 458
+Treap: 592
+Average depths:
+AVL: 17.4649
+Treap: 23.8518
+
+Repeat 21:
+Max depths after initial filling:
+AVL: 22
+Treap: 46
+Insertion time (microseconds):
+AVL: 458
+Treap: 535
+Deletion time (microseconds):
+AVL: 1764
+Treap: 1194
+Search time (microseconds):
+AVL: 431
+Treap: 574
+Average depths:
+AVL: 17.5259
+Treap: 23.3009
+
+Repeat 22:
+Max depths after initial filling:
+AVL: 22
+Treap: 44
+Insertion time (microseconds):
+AVL: 421
+Treap: 537
+Deletion time (microseconds):
+AVL: 1676
+Treap: 1181
+Search time (microseconds):
+AVL: 393
+Treap: 536
+Average depths:
+AVL: 17.4445
+Treap: 23.9592
+
+Repeat 23:
+Max depths after initial filling:
+AVL: 22
+Treap: 45
+Insertion time (microseconds):
+AVL: 479
+Treap: 562
+Deletion time (microseconds):
+AVL: 1640
+Treap: 1334
+Search time (microseconds):
+AVL: 548
+Treap: 643
+Average depths:
+AVL: 17.4743
+Treap: 24.177
+
+Repeat 24:
+Max depths after initial filling:
+AVL: 22
+Treap: 45
+Insertion time (microseconds):
+AVL: 505
+Treap: 636
+Deletion time (microseconds):
+AVL: 1757
+Treap: 1092
+Search time (microseconds):
+AVL: 403
+Treap: 519
+Average depths:
+AVL: 17.5032
+Treap: 23.1442
+
+Repeat 25:
+Max depths after initial filling:
+AVL: 21
+Treap: 43
+Insertion time (microseconds):
+AVL: 479
+Treap: 611
+Deletion time (microseconds):
+AVL: 1711
+Treap: 1184
+Search time (microseconds):
+AVL: 411
+Treap: 609
+Average depths:
+AVL: 17.4476
+Treap: 23.1459
+
+Repeat 26:
+Max depths after initial filling:
+AVL: 22
+Treap: 42
+Insertion time (microseconds):
+AVL: 463
+Treap: 571
+Deletion time (microseconds):
+AVL: 1644
+Treap: 1154
+Search time (microseconds):
+AVL: 399
+Treap: 527
+Average depths:
+AVL: 17.5063
+Treap: 23.0954
+
+Repeat 27:
+Max depths after initial filling:
+AVL: 22
+Treap: 47
+Insertion time (microseconds):
+AVL: 418
+Treap: 488
+Deletion time (microseconds):
+AVL: 1735
+Treap: 1405
+Search time (microseconds):
+AVL: 435
+Treap: 532
+Average depths:
+AVL: 17.4242
+Treap: 24.4464
+
+Repeat 28:
+Max depths after initial filling:
+AVL: 22
+Treap: 46
+Insertion time (microseconds):
+AVL: 786
+Treap: 578
+Deletion time (microseconds):
+AVL: 2894
+Treap: 2310
+Search time (microseconds):
+AVL: 869
+Treap: 999
+Average depths:
+AVL: 17.4712
+Treap: 23.5219
+
+Repeat 29:
+Max depths after initial filling:
+AVL: 22
+Treap: 45
+Insertion time (microseconds):
+AVL: 470
+Treap: 449
+Deletion time (microseconds):
+AVL: 1706
+Treap: 1236
+Search time (microseconds):
+AVL: 413
+Treap: 509
+Average depths:
+AVL: 17.495
+Treap: 24.0486
+
+Repeat 30:
+Max depths after initial filling:
+AVL: 22
+Treap: 45
+Insertion time (microseconds):
+AVL: 429
+Treap: 578
+Deletion time (microseconds):
+AVL: 1859
+Treap: 1475
+Search time (microseconds):
+AVL: 520
+Treap: 585
+Average depths:
+AVL: 17.5044
+Treap: 23.5698
+
+Repeat 31:
+Max depths after initial filling:
+AVL: 22
+Treap: 45
+Insertion time (microseconds):
+AVL: 448
+Treap: 499
+Deletion time (microseconds):
+AVL: 1656
+Treap: 1302
+Search time (microseconds):
+AVL: 489
+Treap: 609
+Average depths:
+AVL: 17.4678
+Treap: 23.1342
+
+Repeat 32:
+Max depths after initial filling:
+AVL: 22
+Treap: 43
+Insertion time (microseconds):
+AVL: 403
+Treap: 723
+Deletion time (microseconds):
+AVL: 1708
+Treap: 1182
+Search time (microseconds):
+AVL: 402
+Treap: 518
+Average depths:
+AVL: 17.4572
+Treap: 22.875
+
+Repeat 33:
+Max depths after initial filling:
+AVL: 22
+Treap: 50
+Insertion time (microseconds):
+AVL: 572
+Treap: 483
+Deletion time (microseconds):
+AVL: 1709
+Treap: 1239
+Search time (microseconds):
+AVL: 484
+Treap: 599
+Average depths:
+AVL: 17.4533
+Treap: 24.2153
+
+Repeat 34:
+Max depths after initial filling:
+AVL: 21
+Treap: 44
+Insertion time (microseconds):
+AVL: 467
+Treap: 559
+Deletion time (microseconds):
+AVL: 1628
+Treap: 1160
+Search time (microseconds):
+AVL: 415
+Treap: 526
+Average depths:
+AVL: 17.4294
+Treap: 22.8195
+
+Repeat 35:
+Max depths after initial filling:
+AVL: 21
+Treap: 46
+Insertion time (microseconds):
+AVL: 471
+Treap: 593
+Deletion time (microseconds):
+AVL: 1635
+Treap: 1100
+Search time (microseconds):
+AVL: 390
+Treap: 522
+Average depths:
+AVL: 17.4604
+Treap: 23.4588
+
+Repeat 36:
+Max depths after initial filling:
+AVL: 22
+Treap: 42
+Insertion time (microseconds):
+AVL: 758
+Treap: 952
+Deletion time (microseconds):
+AVL: 2992
+Treap: 1465
+Search time (microseconds):
+AVL: 576
+Treap: 704
+Average depths:
+AVL: 17.4677
+Treap: 23.6316
+
+Repeat 37:
+Max depths after initial filling:
+AVL: 22
+Treap: 45
+Insertion time (microseconds):
+AVL: 415
+Treap: 570
+Deletion time (microseconds):
+AVL: 1699
+Treap: 1887
+Search time (microseconds):
+AVL: 559
+Treap: 692
+Average depths:
+AVL: 17.4505
+Treap: 22.7644
+
+Repeat 38:
+Max depths after initial filling:
+AVL: 22
+Treap: 46
+Insertion time (microseconds):
+AVL: 466
+Treap: 556
+Deletion time (microseconds):
+AVL: 1603
+Treap: 1204
+Search time (microseconds):
+AVL: 510
+Treap: 573
+Average depths:
+AVL: 17.4524
+Treap: 23.2988
+
+Repeat 39:
+Max depths after initial filling:
+AVL: 22
+Treap: 43
+Insertion time (microseconds):
+AVL: 468
+Treap: 601
+Deletion time (microseconds):
+AVL: 1659
+Treap: 1171
+Search time (microseconds):
+AVL: 378
+Treap: 531
+Average depths:
+AVL: 17.4916
+Treap: 23.9751
+
+Repeat 40:
+Max depths after initial filling:
+AVL: 22
+Treap: 43
+Insertion time (microseconds):
+AVL: 702
+Treap: 709
+Deletion time (microseconds):
+AVL: 2263
+Treap: 1421
+Search time (microseconds):
+AVL: 618
+Treap: 721
+Average depths:
+AVL: 17.474
+Treap: 22.7633
+
+Repeat 41:
+Max depths after initial filling:
+AVL: 22
+Treap: 46
+Insertion time (microseconds):
+AVL: 443
+Treap: 539
+Deletion time (microseconds):
+AVL: 1644
+Treap: 1082
+Search time (microseconds):
+AVL: 361
+Treap: 525
+Average depths:
+AVL: 17.4405
+Treap: 23.3261
+
+Repeat 42:
+Max depths after initial filling:
+AVL: 22
+Treap: 45
+Insertion time (microseconds):
+AVL: 486
+Treap: 641
+Deletion time (microseconds):
+AVL: 2621
+Treap: 1578
+Search time (microseconds):
+AVL: 755
+Treap: 1072
+Average depths:
+AVL: 17.4761
+Treap: 24.0461
+
+Repeat 43:
+Max depths after initial filling:
+AVL: 21
+Treap: 45
+Insertion time (microseconds):
+AVL: 753
+Treap: 853
+Deletion time (microseconds):
+AVL: 2803
+Treap: 1435
+Search time (microseconds):
+AVL: 785
+Treap: 886
+Average depths:
+AVL: 17.4478
+Treap: 23.5257
+
+Repeat 44:
+Max depths after initial filling:
+AVL: 21
+Treap: 43
+Insertion time (microseconds):
+AVL: 467
+Treap: 471
+Deletion time (microseconds):
+AVL: 1673
+Treap: 1192
+Search time (microseconds):
+AVL: 443
+Treap: 575
+Average depths:
+AVL: 17.4896
+Treap: 22.9732
+
+Repeat 45:
+Max depths after initial filling:
+AVL: 22
+Treap: 45
+Insertion time (microseconds):
+AVL: 495
+Treap: 543
+Deletion time (microseconds):
+AVL: 1650
+Treap: 1225
+Search time (microseconds):
+AVL: 414
+Treap: 542
+Average depths:
+AVL: 17.4741
+Treap: 23.7083
+
+Repeat 46:
+Max depths after initial filling:
+AVL: 22
+Treap: 45
+Insertion time (microseconds):
+AVL: 402
+Treap: 624
+Deletion time (microseconds):
+AVL: 1725
+Treap: 1254
+Search time (microseconds):
+AVL: 553
+Treap: 711
+Average depths:
+AVL: 17.456
+Treap: 23.0245
+
+Repeat 47:
+Max depths after initial filling:
+AVL: 22
+Treap: 43
+Insertion time (microseconds):
+AVL: 420
+Treap: 609
+Deletion time (microseconds):
+AVL: 1676
+Treap: 1197
+Search time (microseconds):
+AVL: 389
+Treap: 512
+Average depths:
+AVL: 17.4459
+Treap: 23.2104
+
+Repeat 48:
+Max depths after initial filling:
+AVL: 21
+Treap: 46
+Insertion time (microseconds):
+AVL: 450
+Treap: 706
+Deletion time (microseconds):
+AVL: 1595
+Treap: 1269
+Search time (microseconds):
+AVL: 518
+Treap: 588
+Average depths:
+AVL: 17.4381
+Treap: 24.1654
+
+Repeat 49:
+Max depths after initial filling:
+AVL: 22
+Treap: 43
+Insertion time (microseconds):
+AVL: 761
+Treap: 842
+Deletion time (microseconds):
+AVL: 2883
+Treap: 1540
+Search time (microseconds):
+AVL: 663
+Treap: 869
+Average depths:
+AVL: 17.4517
+Treap: 23.2006
+
+Repeat 50:
+Max depths after initial filling:
+AVL: 22
+Treap: 43
+Insertion time (microseconds):
+AVL: 703
+Treap: 844
+Deletion time (microseconds):
+AVL: 2534
+Treap: 1754
+Search time (microseconds):
+AVL: 714
+Treap: 1079
+Average depths:
+AVL: 17.4403
+Treap: 22.931
