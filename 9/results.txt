@@ -1,23 +1,23 @@
 Test 1 Results:
-Differences: 1, Avg max common length: 2.319
-Differences: 2, Avg max common length: 2.271
-Differences: 4, Avg max common length: 2.265
-Differences: 8, Avg max common length: 2.305
-Differences: 16, Avg max common length: 2.32
+Differences: 1, Avg max common length: 2.31
+Differences: 2, Avg max common length: 2.287
+Differences: 4, Avg max common length: 2.274
+Differences: 8, Avg max common length: 2.289
+Differences: 16, Avg max common length: 2.321
 
 Test 2 Results:
 N = 100, Collisions: 0
 N = 1000, Collisions: 0
 N = 10000, Collisions: 0
-N = 100000, Collisions: 0
-N = 1000000, Collisions: 115
+N = 100000, Collisions: 2
+N = 1000000, Collisions: 101
 
 Test 3 Results:
-Size: 64, Average time (microseconds): 17.235
-Size: 128, Average time (microseconds): 20.829
-Size: 256, Average time (microseconds): 22.785
-Size: 512, Average time (microseconds): 30.872
-Size: 1024, Average time (microseconds): 53.625
-Size: 2048, Average time (microseconds): 96.936
-Size: 4096, Average time (microseconds): 171.657
-Size: 8192, Average time (microseconds): 329.459
+Size: 64, Average time (microseconds): 13.118
+Size: 128, Average time (microseconds): 14.653
+Size: 256, Average time (microseconds): 24.096
+Size: 512, Average time (microseconds): 43.525
+Size: 1024, Average time (microseconds): 83.913
+Size: 2048, Average time (microseconds): 150.719
+Size: 4096, Average time (microseconds): 683.325
+Size: 8192, Average time (microseconds): 947.8
